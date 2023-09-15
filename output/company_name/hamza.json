@@ -1,0 +1,485 @@
+{
+  "search_metadata": {
+    "id": "65043037defa1316e9faa95e",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/646679ed0df2632d/65043037defa1316e9faa95e.json",
+    "created_at": "2023-09-15 10:21:43 UTC",
+    "processed_at": "2023-09-15 10:21:43 UTC",
+    "google_url": "https://www.google.com/search?q=hamza&oq=hamza&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/646679ed0df2632d/65043037defa1316e9faa95e.html",
+    "total_time_taken": 1.56
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "hamza",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "query_displayed": "hamza",
+    "total_results": 94800000,
+    "time_taken_displayed": 0.42,
+    "menu_items": [
+      {
+        "position": 1,
+        "title": "Images",
+        "link": "https://www.google.com/search?sca_esv=565618840&q=hamza&tbm=isch&source=lnms&sa=X&ved=2ahUKEwj75YvGsqyBAxWTlGoFHa2YDvsQ0pQJegQIChAB",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_images&gl=us&google_domain=google.com&hl=en&q=hamza"
+      },
+      {
+        "position": 2,
+        "title": "Videos",
+        "link": "https://www.google.com/search?sca_esv=565618840&q=hamza&tbm=vid&source=lnms&sa=X&ved=2ahUKEwj75YvGsqyBAxWTlGoFHa2YDvsQ0pQJegQIEBAB",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_videos&gl=us&google_domain=google.com&hl=en&q=hamza"
+      },
+      {
+        "position": 3,
+        "title": "Hamza Ahmed",
+        "link": "https://www.google.com/search?sca_esv=565618840&q=Hamza+Ahmed&uds=H4sIAAAAAAAA_-NS5uL2SMytSlRwzMhNTRFizQBxDJiKkEWNIKIAh5rFCSwAAAA&sa=X&ved=2ahUKEwj75YvGsqyBAxWTlGoFHa2YDvsQxKsJegQICRAB&ictx=0",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Hamza+Ahmed"
+      },
+      {
+        "position": 4,
+        "title": "Youtube",
+        "link": "https://www.google.com/search?sca_esv=565618840&q=Hamza+youtube&uds=H4sIAAAAAAAA_-NS5GKPzC8tKU1KFWLNSMytSjRgKuL1ADEUKiHiRhBxAHM-i1EqAAAA&sa=X&ved=2ahUKEwj75YvGsqyBAxWTlGoFHa2YDvsQxKsJegQIDxAB&ictx=0",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Hamza+youtube"
+      },
+      {
+        "position": 5,
+        "title": "Instagram",
+        "link": "https://www.google.com/search?sca_esv=565618840&q=Hamza+instagram&uds=H4sIAAAAAAAA_-NS5eL0zCsuSUwvSswVYs1IzK1KNGAq4vcAMRQyYTJGEBkAm7wlIC4AAAA&sa=X&ved=2ahUKEwj75YvGsqyBAxWTlGoFHa2YDvsQxKsJegQITRAB&ictx=0",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Hamza+instagram"
+      },
+      {
+        "position": 6,
+        "title": "Meaning",
+        "link": "https://www.google.com/search?sca_esv=565618840&q=Hamza+meaning&uds=H4sIAAAAAAAA_-NS5GL3TU3My8xLF2LNSMytSjRgKuL1ADEUciHiRhBxABhU7vkqAAAA&sa=X&ved=2ahUKEwj75YvGsqyBAxWTlGoFHa2YDvsQxKsJegQIThAB&ictx=0",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Hamza+meaning"
+      },
+      {
+        "position": 7,
+        "title": "Name",
+        "link": "https://www.google.com/search?sca_esv=565618840&q=Hamza+name&uds=H4sIAAAAAAAA_-OS5mLxS8xNFWLNSMytSjRgKuLyADEU8oCCRhBBAApCO7gkAAAA&sa=X&ved=2ahUKEwj75YvGsqyBAxWTlGoFHa2YDvsQxKsJegQITxAB&ictx=0",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Hamza+name"
+      },
+      {
+        "position": 8,
+        "title": "News",
+        "link": "https://www.google.com/search?sca_esv=565618840&q=hamza&tbm=nws&source=lnms&sa=X&ved=2ahUKEwj75YvGsqyBAxWTlGoFHa2YDvsQ0pQJegQISxAB",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=hamza&tbm=nws"
+      },
+      {
+        "position": 9,
+        "title": "Age",
+        "link": "https://www.google.com/search?sca_esv=565618840&q=Hamza+age&uds=H4sIAAAAAAAA_-OS5GJ2TE8VYs1IzK1KNGAq4vQAMRQS01ONIGIAo-_exSIAAAA&sa=X&ved=2ahUKEwj75YvGsqyBAxWTlGoFHa2YDvsQxKsJegQITBAB&ictx=0",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Hamza+age"
+      }
+    ]
+  },
+  "inline_videos": [
+    {
+      "position": 1,
+      "title": "Hamza Is Lying To You.",
+      "link": "https://www.youtube.com/watch?v=4BN3O5cnfkg",
+      "thumbnail": "https://serpapi.com/searches/65043037defa1316e9faa95e/images/db47e6b2357607139e762197d3c571ba0629420580a5e578a8b5de2f58732564.jpeg",
+      "channel": "Greg Doucette",
+      "platform": "YouTube",
+      "date": "Jun 29, 2023"
+    },
+    {
+      "position": 2,
+      "title": "Strictly's Reigning Champion Hamza: My Superpower Which ...",
+      "link": "https://www.youtube.com/watch?v=niKgL82qi3Q",
+      "thumbnail": "https://serpapi.com/searches/65043037defa1316e9faa95e/images/db47e6b2357607135411284c26f1181ee55334d3fd00a81285bd58c62acb7cab.jpeg",
+      "channel": "Lorraine",
+      "platform": "YouTube",
+      "date": "20 hours ago"
+    },
+    {
+      "position": 3,
+      "title": "Hamza gives a lecture on life setup",
+      "link": "https://www.youtube.com/watch?v=h7LdEYE759I",
+      "thumbnail": "https://serpapi.com/searches/65043037defa1316e9faa95e/images/db47e6b235760713fbd6681494b8c6d09f894ca6d1a16cbebc168e00a30afd30.jpeg",
+      "channel": "Hamza Unfiltered",
+      "platform": "YouTube",
+      "date": "Jun 29, 2023"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "What is hamza in Arabic?",
+      "snippet": "Hamza (ء) is a sign in the Arabic script that represents the glottal stop /ʔ/. It can be considered a diacritic or a letter, but it is not counted among the 28 letters of the alphabet.",
+      "title": "ء - Wiktionary, the free dictionary",
+      "link": "https://en.wiktionary.org/wiki/%D8%A1#:~:text=Hamza%20(%D8%A1)%20is%20a%20sign,28%20letters%20of%20the%20alphabet.",
+      "displayed_link": "https://en.wiktionary.org › wiki",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5ovzbD2gx4Cvrqn9stnh-Ru2PCZFAcyQMfcAqIDNg&s",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsVlR6ZEhSbGRhUlRaSFYzbHBVbk5sVURkUGJFVnhVVWszZEhBMVkwaFVaMDFSVlZSNVh6QXhSSGxSVG1NM01qTllYMFoyV1U5RVFVMHRZelJtTmtwRGQzRkpTekJDRWhkUFJFRkZXbVoyY0VGYVQzQnhkSE5RY21KSE5qSkJPQm9pUVVwM2F5MDRaRTlZTUMxMU4xaFNWbTFNWWpoa1NGbFRRbEpyVDNaRmVVMVZRUSIsImZjdiI6IjMiLCJlaSI6Ik9EQUVaZnZwQVpPcHF0c1ByYkc2MkE4IiwicWMiOiJDZ1ZvWVcxNllSQUFmUlF1N1Q0IiwicXVlc3Rpb24iOiJXaGF0IGlzIGhhbXphIGluIEFyYWJpYz8iLCJsayI6IkdoZDNhR0YwSUdseklHaGhiWHBoSUdsdUlHRnlZV0pwWXciLCJicyI6ImMtT1M1WklJejBnc1VjZ3NWc2hJeksxS1ZNak1VM0FzU2t6S1RMYVhXQnZKSmNMRkQ1SldMMVpJaE1qYlM4d1Q0OUxqMGdSclNzbFBoV2xMeVZkSXl5OENxc3JKTE12TVMxZUl6QzhOS1UxS0xiS1hPT0hOcGNnbEExYWZXSlNxVUpLUnFsQlVtZ1BVbUo4R003TGJRNEFSQUEiLCJpZCI6ImZjXzQifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsVlR6ZEhSbGRhUlRaSFYzbHBVbk5sVURkUGJFVnhVVWszZEhBMVkwaFVaMDFSVlZSNVh6QXhSSGxSVG1NM01qTllYMFoyV1U5RVFVMHRZelJtTmtwRGQzRkpTekJDRWhkUFJFRkZXbVoyY0VGYVQzQnhkSE5RY21KSE5qSkJPQm9pUVVwM2F5MDRaRTlZTUMxMU4xaFNWbTFNWWpoa1NGbFRRbEpyVDNaRmVVMVZRUSIsImZjdiI6IjMiLCJlaSI6Ik9EQUVaZnZwQVpPcHF0c1ByYkc2MkE4IiwicWMiOiJDZ1ZvWVcxNllSQUFmUlF1N1Q0IiwicXVlc3Rpb24iOiJXaGF0IGlzIGhhbXphIGluIEFyYWJpYz8iLCJsayI6IkdoZDNhR0YwSUdseklHaGhiWHBoSUdsdUlHRnlZV0pwWXciLCJicyI6ImMtT1M1WklJejBnc1VjZ3NWc2hJeksxS1ZNak1VM0FzU2t6S1RMYVhXQnZKSmNMRkQ1SldMMVpJaE1qYlM4d1Q0OUxqMGdSclNzbFBoV2xMeVZkSXl5OENxc3JKTE12TVMxZUl6QzhOS1UxS0xiS1hPT0hOcGNnbEExYWZXSlNxVUpLUnFsQlVtZ1BVbUo4R003TGJRNEFSQUEiLCJpZCI6ImZjXzQifQ%3D%3D"
+    },
+    {
+      "question": "What's a hamza?",
+      "snippet": "[ hahm-zah ] show ipa. noun. the sign used in Arabic writing to represent the glottal stop, usually written above another letter and shown in English transliterations as an apostrophe.",
+      "title": "Hamza Definition & Meaning | Dictionary.com",
+      "link": "https://www.dictionary.com/browse/hamza#:~:text=%5B%20hahm%2Dzah%20%5D%20show%20ipa,English%20transliterations%20as%20an%20apostrophe.",
+      "displayed_link": "https://www.dictionary.com › browse › hamza",
+      "thumbnail": "https://serpapi.com/searches/65043037defa1316e9faa95e/images/e7bcab3c116695b1ad6aee6f7153285aa281ddeb0c901b226b0d8d189cf120af.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsVlR6ZEhSbGRhUlRaSFYzbHBVbk5sVURkUGJFVnhVVWszZEhBMVkwaFVaMDFSVlZSNVh6QXhSSGxSVG1NM01qTllYMFoyV1U5RVFVMHRZelJtTmtwRGQzRkpTekJDRWhkUFJFRkZXbVoyY0VGYVQzQnhkSE5RY21KSE5qSkJPQm9pUVVwM2F5MDRaRTlZTUMxMU4xaFNWbTFNWWpoa1NGbFRRbEpyVDNaRmVVMVZRUSIsImZjdiI6IjMiLCJlaSI6Ik9EQUVaZnZwQVpPcHF0c1ByYkc2MkE4IiwicWMiOiJDZ1ZvWVcxNllSQUFmUlF1N1Q0IiwicXVlc3Rpb24iOiJXaGF0J3MgYSBoYW16YT8iLCJsayI6IkdnNTNhR0YwSjNNZ1lTQm9ZVzE2WVEiLCJicyI6ImMtT1M1WklJejBnc1VjZ3NWc2hJeksxS1ZNak1VM0FzU2t6S1RMYVhXQnZKSmNMRkQ1SldMMVpJaE1qYlM4d1Q0OUxqMGdSclNzbFBoV2xMeVZkSXl5OENxc3JKTE12TVMxZUl6QzhOS1UxS0xiS1hPT0hOcGNnbEExYWZXSlNxVUpLUnFsQlVtZ1BVbUo4R003TGJRNEFSQUEiLCJpZCI6ImZjXzQifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsVlR6ZEhSbGRhUlRaSFYzbHBVbk5sVURkUGJFVnhVVWszZEhBMVkwaFVaMDFSVlZSNVh6QXhSSGxSVG1NM01qTllYMFoyV1U5RVFVMHRZelJtTmtwRGQzRkpTekJDRWhkUFJFRkZXbVoyY0VGYVQzQnhkSE5RY21KSE5qSkJPQm9pUVVwM2F5MDRaRTlZTUMxMU4xaFNWbTFNWWpoa1NGbFRRbEpyVDNaRmVVMVZRUSIsImZjdiI6IjMiLCJlaSI6Ik9EQUVaZnZwQVpPcHF0c1ByYkc2MkE4IiwicWMiOiJDZ1ZvWVcxNllSQUFmUlF1N1Q0IiwicXVlc3Rpb24iOiJXaGF0J3MgYSBoYW16YT8iLCJsayI6IkdnNTNhR0YwSjNNZ1lTQm9ZVzE2WVEiLCJicyI6ImMtT1M1WklJejBnc1VjZ3NWc2hJeksxS1ZNak1VM0FzU2t6S1RMYVhXQnZKSmNMRkQ1SldMMVpJaE1qYlM4d1Q0OUxqMGdSclNzbFBoV2xMeVZkSXl5OENxc3JKTE12TVMxZUl6QzhOS1UxS0xiS1hPT0hOcGNnbEExYWZXSlNxVUpLUnFsQlVtZ1BVbUo4R003TGJRNEFSQUEiLCJpZCI6ImZjXzQifQ%3D%3D"
+    },
+    {
+      "question": "What does hamza do for a living YouTuber?",
+      "snippet": "Hamza Ahmed, previously known by his online name Pakiman, and now often recognised mononymously simply as Hamza, is a British YouTuber in the self improvement niche, specifically targeted towards young men.",
+      "title": "Hamza Ahmed | General knowledge Wiki - Fandom",
+      "link": "https://general-knowledge.fandom.com/wiki/Hamza_Ahmed#:~:text=Hamza%20Ahmed%2C%20previously%20known%20by,specifically%20targeted%20towards%20young%20men.",
+      "displayed_link": "https://general-knowledge.fandom.com › wiki › Hamza_...",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6uqe32mzA4uBnkBR7nPQVi6AzW8OvPtbR0_2JktXf0g&s",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsVlR6ZEhSbGRhUlRaSFYzbHBVbk5sVURkUGJFVnhVVWszZEhBMVkwaFVaMDFSVlZSNVh6QXhSSGxSVG1NM01qTllYMFoyV1U5RVFVMHRZelJtTmtwRGQzRkpTekJDRWhkUFJFRkZXbVoyY0VGYVQzQnhkSE5RY21KSE5qSkJPQm9pUVVwM2F5MDRaRTlZTUMxMU4xaFNWbTFNWWpoa1NGbFRRbEpyVDNaRmVVMVZRUSIsImZjdiI6IjMiLCJlaSI6Ik9EQUVaZnZwQVpPcHF0c1ByYkc2MkE4IiwicWMiOiJDZ1ZvWVcxNllSQUFmUlF1N1Q0IiwicXVlc3Rpb24iOiJXaGF0IGRvZXMgaGFtemEgZG8gZm9yIGEgbGl2aW5nIFlvdVR1YmVyPyIsImxrIjoiR2loM2FHRjBJR1J2WlhNZ2FHRnRlbUVnWkc4Z1ptOXlJR0VnYkdsMmFXNW5JSGx2ZFhSMVltVnkiLCJicyI6ImMtT1M1WklJejBnc1VjZ3NWc2hJeksxS1ZNak1VM0FzU2t6S1RMYVhXQnZKSmNMRkQ1SldMMVpJaE1qYlM4d1Q0OUxqMGdSclNzbFBoV2xMeVZkSXl5OENxc3JKTE12TVMxZUl6QzhOS1UxS0xiS1hPT0hOcGNnbEExYWZXSlNxVUpLUnFsQlVtZ1BVbUo4R003TGJRNEFSQUEiLCJpZCI6ImZjXzQifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsVlR6ZEhSbGRhUlRaSFYzbHBVbk5sVURkUGJFVnhVVWszZEhBMVkwaFVaMDFSVlZSNVh6QXhSSGxSVG1NM01qTllYMFoyV1U5RVFVMHRZelJtTmtwRGQzRkpTekJDRWhkUFJFRkZXbVoyY0VGYVQzQnhkSE5RY21KSE5qSkJPQm9pUVVwM2F5MDRaRTlZTUMxMU4xaFNWbTFNWWpoa1NGbFRRbEpyVDNaRmVVMVZRUSIsImZjdiI6IjMiLCJlaSI6Ik9EQUVaZnZwQVpPcHF0c1ByYkc2MkE4IiwicWMiOiJDZ1ZvWVcxNllSQUFmUlF1N1Q0IiwicXVlc3Rpb24iOiJXaGF0IGRvZXMgaGFtemEgZG8gZm9yIGEgbGl2aW5nIFlvdVR1YmVyPyIsImxrIjoiR2loM2FHRjBJR1J2WlhNZ2FHRnRlbUVnWkc4Z1ptOXlJR0VnYkdsMmFXNW5JSGx2ZFhSMVltVnkiLCJicyI6ImMtT1M1WklJejBnc1VjZ3NWc2hJeksxS1ZNak1VM0FzU2t6S1RMYVhXQnZKSmNMRkQ1SldMMVpJaE1qYlM4d1Q0OUxqMGdSclNzbFBoV2xMeVZkSXl5OENxc3JKTE12TVMxZUl6QzhOS1UxS0xiS1hPT0hOcGNnbEExYWZXSlNxVUpLUnFsQlVtZ1BVbUo4R003TGJRNEFSQUEiLCJpZCI6ImZjXzQifQ%3D%3D"
+    },
+    {
+      "question": "What are the rules of hamza?",
+      "snippet": "1. The Hamza will be written on the line if it is preceded by a سكون (this includes long vowels and diphthongs). 2. The Hamza will be written according to the Word Internal Rules if it is not preceded by a سكون.",
+      "title": "How to Write Hamza in Arabic",
+      "link": "https://www.learnarabiconline.com/writing-hamza/#:~:text=Word%20Final-,1.,includes%20long%20vowels%20and%20diphthongs).&text=%D9%85%D9%8E%D8%B1%D9%92%D8%A1-,2.,not%20preceded%20by%20a%20%D8%B3%D9%83%D9%88%D9%86.",
+      "displayed_link": "https://www.learnarabiconline.com › writing-hamza",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsVlR6ZEhSbGRhUlRaSFYzbHBVbk5sVURkUGJFVnhVVWszZEhBMVkwaFVaMDFSVlZSNVh6QXhSSGxSVG1NM01qTllYMFoyV1U5RVFVMHRZelJtTmtwRGQzRkpTekJDRWhkUFJFRkZXbVoyY0VGYVQzQnhkSE5RY21KSE5qSkJPQm9pUVVwM2F5MDRaRTlZTUMxMU4xaFNWbTFNWWpoa1NGbFRRbEpyVDNaRmVVMVZRUSIsImZjdiI6IjMiLCJlaSI6Ik9EQUVaZnZwQVpPcHF0c1ByYkc2MkE4IiwicWMiOiJDZ1ZvWVcxNllSQUFmUlF1N1Q0IiwicXVlc3Rpb24iOiJXaGF0IGFyZSB0aGUgcnVsZXMgb2YgaGFtemE/IiwibGsiOiJHZzV5ZFd4bGN5QnZaaUJvWVcxNllRIiwiYnMiOiJjLU9TNVpJSXowZ3NVY2dzVnNoSXpLMUtWTWpNVTNBc1NrektUTGFYV0J2SkpjTEZENUpXTDFaSWhNamJTOHdUNDlMajBnUnJTc2xQaFdsTHlWZEl5eThDcXNySkxNdk1TMWVJekM4TktVMUtMYktYT09ITnBjZ2xBMWFmV0pTcVVKS1JxbEJVbWdQVW1KOEdNN0xiUTRBUkFBIiwiaWQiOiJmY180In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsVlR6ZEhSbGRhUlRaSFYzbHBVbk5sVURkUGJFVnhVVWszZEhBMVkwaFVaMDFSVlZSNVh6QXhSSGxSVG1NM01qTllYMFoyV1U5RVFVMHRZelJtTmtwRGQzRkpTekJDRWhkUFJFRkZXbVoyY0VGYVQzQnhkSE5RY21KSE5qSkJPQm9pUVVwM2F5MDRaRTlZTUMxMU4xaFNWbTFNWWpoa1NGbFRRbEpyVDNaRmVVMVZRUSIsImZjdiI6IjMiLCJlaSI6Ik9EQUVaZnZwQVpPcHF0c1ByYkc2MkE4IiwicWMiOiJDZ1ZvWVcxNllSQUFmUlF1N1Q0IiwicXVlc3Rpb24iOiJXaGF0IGFyZSB0aGUgcnVsZXMgb2YgaGFtemE%2FIiwibGsiOiJHZzV5ZFd4bGN5QnZaaUJvWVcxNllRIiwiYnMiOiJjLU9TNVpJSXowZ3NVY2dzVnNoSXpLMUtWTWpNVTNBc1NrektUTGFYV0J2SkpjTEZENUpXTDFaSWhNamJTOHdUNDlMajBnUnJTc2xQaFdsTHlWZEl5eThDcXNySkxNdk1TMWVJekM4TktVMUtMYktYT09ITnBjZ2xBMWFmV0pTcVVKS1JxbEJVbWdQVW1KOEdNN0xiUTRBUkFBIiwiaWQiOiJmY180In0%3D"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Hamza Ahmed",
+      "link": "https://www.youtube.com/channel/UCWsslCoN3b_wBaFVWK_ye_A",
+      "displayed_link": "https://www.youtube.com › channel",
+      "favicon": "https://serpapi.com/searches/65043037defa1316e9faa95e/images/b9b5071bdaed43dab8bd4081a16c04e236320c545344b35d68d45c4cf289e70e.png",
+      "snippet": "My Official YouTube Channels · Hamza Highlights · Adonis School Official · Hamza Español.",
+      "snippet_highlighted_words": [
+        "Hamza",
+        "Hamza"
+      ],
+      "about_this_result": {
+        "keywords": [
+          "hamza"
+        ],
+        "languages": [
+          "English"
+        ],
+        "regions": [
+          "United States"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.youtube.com/channel/UCWsslCoN3b_wBaFVWK_ye_A&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCWsslCoN3b_wBaFVWK_ye_A",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:24AW1B9qkDUJ:https://www.youtube.com/channel/UCWsslCoN3b_wBaFVWK_ye_A&cd=10&hl=en&ct=clnk&gl=us",
+      "source": "YouTube"
+    },
+    {
+      "position": 2,
+      "title": "Hamza",
+      "link": "https://en.wikipedia.org/wiki/Hamza",
+      "displayed_link": "https://en.wikipedia.org › wiki › Hamza",
+      "favicon": "https://serpapi.com/searches/65043037defa1316e9faa95e/images/b9b5071bdaed43dab8bd4081a16c04e2a475463e301b245eb12c37fb158fa5e9.png",
+      "snippet": "Hamza (Arabic: هَمْزَة hamzah) ( ء‎) is a letter in the Arabic alphabet, representing the glottal stop [ʔ]. Hamza is not one of the 28 \"full\" letters and owes ...",
+      "snippet_highlighted_words": [
+        "Hamza",
+        "Hamza"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Etymology",
+            "link": "https://en.wikipedia.org/wiki/Hamza#Etymology"
+          },
+          {
+            "title": "Orthography",
+            "link": "https://en.wikipedia.org/wiki/Hamza#Orthography"
+          },
+          {
+            "title": "Overview tables",
+            "link": "https://en.wikipedia.org/wiki/Hamza#Overview_tables"
+          },
+          {
+            "title": "Hamza in other Arabic-script...",
+            "link": "https://en.wikipedia.org/wiki/Hamza#Hamza_in_other_Arabic-script_alphabets"
+          }
+        ]
+      },
+      "about_this_result": {
+        "keywords": [
+          "hamza"
+        ],
+        "languages": [
+          "English"
+        ],
+        "regions": [
+          "United States"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://en.wikipedia.org/wiki/Hamza&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FHamza",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:0VnFNWGJ0i8J:https://en.wikipedia.org/wiki/Hamza&cd=21&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?sca_esv=565618840&q=related:https://en.wikipedia.org/wiki/Hamza+hamza",
+      "source": "Wikipedia"
+    },
+    {
+      "position": 3,
+      "title": "Hamza",
+      "link": "https://www.youtube.com/channel/UCGdSAF50uDAxghTy_3MpKng",
+      "displayed_link": "https://www.youtube.com › channel",
+      "favicon": "https://serpapi.com/searches/65043037defa1316e9faa95e/images/b9b5071bdaed43dab8bd4081a16c04e293fca8e482367355f6895e055f085105.png",
+      "snippet": "Hamza - 140 BPM (Officiel) · Hamza - Netflix (Clip officiel) · Hamza - Henny Pop (Clip officiel) · Hamza - Nobu (Clip officiel).",
+      "snippet_highlighted_words": [
+        "Hamza",
+        "Hamza",
+        "Hamza",
+        "Hamza"
+      ],
+      "about_this_result": {
+        "keywords": [
+          "hamza"
+        ],
+        "languages": [
+          "English"
+        ],
+        "regions": [
+          "United States"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.youtube.com/channel/UCGdSAF50uDAxghTy_3MpKng&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCGdSAF50uDAxghTy_3MpKng",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:k1Px3_xHlk4J:https://www.youtube.com/channel/UCGdSAF50uDAxghTy_3MpKng&cd=25&hl=en&ct=clnk&gl=us",
+      "source": "YouTube"
+    },
+    {
+      "position": 4,
+      "title": "Hamza Ahmed (@HamzaAdonis) ...",
+      "link": "https://twitter.com/hamzaadonis?lang=en",
+      "displayed_link": "https://twitter.com › hamzaadonis",
+      "favicon": "https://serpapi.com/searches/65043037defa1316e9faa95e/images/b9b5071bdaed43dab8bd4081a16c04e2b8811ea2d48ef99058cb57c796f6b191.png",
+      "snippet": "Hamza Ahmed's posts ... Strong men will be needed soon. ... Don't trust emotional men. ... Women are more masculine than men these days... ... 99% of books are not ...",
+      "snippet_highlighted_words": [
+        "Hamza"
+      ],
+      "about_this_result": {
+        "keywords": [
+          "hamza"
+        ],
+        "languages": [
+          "English"
+        ],
+        "regions": [
+          "United States"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://twitter.com/HamzaAdonis&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Ftwitter.com%2FHamzaAdonis",
+      "source": "Twitter"
+    },
+    {
+      "position": 5,
+      "title": "Hamza Ahmed (@cultleaderhamza)",
+      "link": "https://www.instagram.com/cultleaderhamza/?hl=en",
+      "displayed_link": "https://www.instagram.com › cultleaderhamza",
+      "favicon": "https://serpapi.com/searches/65043037defa1316e9faa95e/images/b9b5071bdaed43dab8bd4081a16c04e2116c5feefe4a4b7a485170eae290fc60.png",
+      "snippet": "161K Followers, 34 Following, 16 Posts - See Instagram photos and videos from Hamza Ahmed (@cultleaderhamza)",
+      "snippet_highlighted_words": [
+        "Hamza"
+      ],
+      "about_this_result": {
+        "keywords": [
+          "hamza"
+        ],
+        "languages": [
+          "English"
+        ],
+        "regions": [
+          "United States"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.instagram.com/cultleaderhamza/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.instagram.com%2Fcultleaderhamza%2F",
+      "source": "Instagram"
+    },
+    {
+      "position": 6,
+      "title": "Hamza (@hamza) • Instagram photos and videos",
+      "link": "https://www.instagram.com/hamza/?hl=en",
+      "displayed_link": "https://www.instagram.com › hamza",
+      "favicon": "https://serpapi.com/searches/65043037defa1316e9faa95e/images/b9b5071bdaed43dab8bd4081a16c04e2664ee4cf6837c8d2b72ed02cb1886c58.png",
+      "snippet": "35K Followers, 1296 Following, 751 Posts - See Instagram photos and videos from Hamza (@hamza)",
+      "snippet_highlighted_words": [
+        "Hamza",
+        "hamza"
+      ],
+      "about_this_result": {
+        "keywords": [
+          "hamza"
+        ],
+        "languages": [
+          "English"
+        ],
+        "regions": [
+          "United States"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.instagram.com/hamza/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.instagram.com%2Fhamza%2F",
+      "source": "Instagram"
+    },
+    {
+      "position": 7,
+      "title": "Hamza ibn Abd al-Muttalib",
+      "link": "https://en.wikipedia.org/wiki/Hamza_ibn_Abd_al-Muttalib",
+      "displayed_link": "https://en.wikipedia.org › wiki › Hamza_ibn_Abd_al-...",
+      "favicon": "https://serpapi.com/searches/65043037defa1316e9faa95e/images/b9b5071bdaed43dab8bd4081a16c04e29f2b739c69e09fb77d9ed0724f1237c4.png",
+      "snippet": "Ḥamza ibn ʿAbd al-Muṭṭalib was a foster brother, paternal uncle, maternal second-cousin, and companion of the Islamic prophet Muhammad.",
+      "snippet_highlighted_words": [
+        "Ḥamza"
+      ],
+      "about_this_result": {
+        "keywords": [
+          "hamza"
+        ],
+        "languages": [
+          "English"
+        ],
+        "regions": [
+          "United States"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://en.wikipedia.org/wiki/Hamza_ibn_Abd_al-Muttalib&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FHamza_ibn_Abd_al-Muttalib",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:OQewl4t_-GQJ:https://en.wikipedia.org/wiki/Hamza_ibn_Abd_al-Muttalib&cd=29&hl=en&ct=clnk&gl=us",
+      "source": "Wikipedia"
+    },
+    {
+      "position": 8,
+      "title": "Hamza",
+      "link": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh",
+      "displayed_link": "https://open.spotify.com › artist",
+      "favicon": "https://serpapi.com/searches/65043037defa1316e9faa95e/images/b9b5071bdaed43dab8bd4081a16c04e2234a9e37deacb5618829e5da4972ed67.png",
+      "snippet": "Hamza. 4,366,681 monthly listeners. Follow. Popular. Nocif. 48,903,542. FADE UP. 98,046,956. Au Bout De La Nuit. 18,130,626. Pilote (feat. Hamza). 90,434,016.",
+      "snippet_highlighted_words": [
+        "Hamza",
+        "Hamza"
+      ],
+      "about_this_result": {
+        "keywords": [
+          "hamza"
+        ],
+        "languages": [
+          "English"
+        ],
+        "regions": [
+          "United States"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fopen.spotify.com%2Fartist%2F5gs4Sm2WQUkcGeikMcVHbh",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:aiY0yEIW6bUJ:https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh&cd=30&hl=en&ct=clnk&gl=us",
+      "source": "Spotify"
+    },
+    {
+      "position": 9,
+      "title": "‎Hamza on Apple Music",
+      "link": "https://music.apple.com/us/artist/hamza/1128462780",
+      "displayed_link": "https://music.apple.com › artist › hamza",
+      "favicon": "https://serpapi.com/searches/65043037defa1316e9faa95e/images/b9b5071bdaed43dab8bd4081a16c04e2ff64d22608003a327a5e607fc7f2c7bd.png",
+      "snippet": "The melodic force behind Belgium's new wave of rap, Hamza's vaunted rhymes have become a canorous staple of contemporary francophone hip-hop.",
+      "snippet_highlighted_words": [
+        "Hamza's"
+      ],
+      "about_this_result": {
+        "keywords": [
+          "hamza"
+        ],
+        "related_keywords": [
+          "hamza's"
+        ],
+        "languages": [
+          "English"
+        ],
+        "regions": [
+          "United States"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://music.apple.com/us/artist/hamza/1128462780&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fmusic.apple.com%2Fus%2Fartist%2Fhamza%2F1128462780",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:UVWDW4JWXkUJ:https://music.apple.com/us/artist/hamza/1128462780&cd=31&hl=en&ct=clnk&gl=us",
+      "source": "Apple"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "hamza youtube",
+      "link": "https://www.google.com/search?sca_esv=565618840&q=Hamza+youtube&sa=X&ved=2ahUKEwj75YvGsqyBAxWTlGoFHa2YDvsQ1QJ6BAg6EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Hamza+youtube"
+    },
+    {
+      "block_position": 1,
+      "query": "hamza ahmed",
+      "link": "https://www.google.com/search?sca_esv=565618840&q=Hamza+Ahmed&sa=X&ved=2ahUKEwj75YvGsqyBAxWTlGoFHa2YDvsQ1QJ6BAg5EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Hamza+Ahmed"
+    },
+    {
+      "block_position": 1,
+      "query": "hamza meaning",
+      "link": "https://www.google.com/search?sca_esv=565618840&q=Hamza+meaning&sa=X&ved=2ahUKEwj75YvGsqyBAxWTlGoFHa2YDvsQ1QJ6BAgzEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Hamza+meaning"
+    },
+    {
+      "block_position": 1,
+      "query": "hamza name",
+      "link": "https://www.google.com/search?sca_esv=565618840&q=Hamza+name&sa=X&ved=2ahUKEwj75YvGsqyBAxWTlGoFHa2YDvsQ1QJ6BAgxEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Hamza+name"
+    },
+    {
+      "block_position": 1,
+      "query": "hamza instagram",
+      "link": "https://www.google.com/search?sca_esv=565618840&q=Hamza+instagram&sa=X&ved=2ahUKEwj75YvGsqyBAxWTlGoFHa2YDvsQ1QJ6BAgwEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Hamza+instagram"
+    },
+    {
+      "block_position": 1,
+      "query": "hamza age",
+      "link": "https://www.google.com/search?sca_esv=565618840&q=Hamza+age&sa=X&ved=2ahUKEwj75YvGsqyBAxWTlGoFHa2YDvsQ1QJ6BAgvEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Hamza+age"
+    },
+    {
+      "block_position": 1,
+      "query": "hamza arabic",
+      "link": "https://www.google.com/search?sca_esv=565618840&q=Hamza+Arabic&sa=X&ved=2ahUKEwj75YvGsqyBAxWTlGoFHa2YDvsQ1QJ6BAguEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Hamza+Arabic"
+    },
+    {
+      "block_position": 1,
+      "query": "hamza letter",
+      "link": "https://www.google.com/search?sca_esv=565618840&q=Hamza+letter&sa=X&ved=2ahUKEwj75YvGsqyBAxWTlGoFHa2YDvsQ1QJ6BAgtEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Hamza+letter"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=hamza&oq=hamza&start=10&sourceid=chrome&ie=UTF-8",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=hamza&oq=hamza&start=10&sourceid=chrome&ie=UTF-8",
+      "3": "https://www.google.com/search?q=hamza&oq=hamza&start=20&sourceid=chrome&ie=UTF-8",
+      "4": "https://www.google.com/search?q=hamza&oq=hamza&start=30&sourceid=chrome&ie=UTF-8",
+      "5": "https://www.google.com/search?q=hamza&oq=hamza&start=40&sourceid=chrome&ie=UTF-8"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=hamza&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=hamza&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=hamza&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=hamza&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=hamza&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=hamza&start=40"
+    }
+  }
+}

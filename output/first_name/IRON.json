@@ -1,0 +1,620 @@
+{
+  "search_metadata": {
+    "id": "650431172bc7d8d7bee2c7d9",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/fbd846c81eb48281/650431172bc7d8d7bee2c7d9.json",
+    "created_at": "2023-09-15 10:25:27 UTC",
+    "processed_at": "2023-09-15 10:25:27 UTC",
+    "google_url": "https://www.google.com/search?q=IRON&oq=IRON&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/fbd846c81eb48281/650431172bc7d8d7bee2c7d9.html",
+    "total_time_taken": 2.64
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "IRON",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "query_displayed": "IRON",
+    "total_results": 4790000000,
+    "time_taken_displayed": 0.52,
+    "menu_items": [
+      {
+        "position": 1,
+        "title": "Images",
+        "link": "https://www.google.com/search?sca_esv=565618840&q=IRON&tbm=isch&source=lnms&sa=X&ved=2ahUKEwjjvZ2xs6yBAxUVEFkFHdycCzIQ0pQJegQIDRAB",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_images&gl=us&google_domain=google.com&hl=en&q=IRON"
+      },
+      {
+        "position": 2,
+        "title": "Videos",
+        "link": "https://www.google.com/search?sca_esv=565618840&q=IRON&tbm=vid&source=lnms&sa=X&ved=2ahUKEwjjvZ2xs6yBAxUVEFkFHdycCzIQ0pQJegQIDBAB",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_videos&gl=us&google_domain=google.com&hl=en&q=IRON"
+      },
+      {
+        "position": 3,
+        "title": "Sources",
+        "link": "https://www.google.com/search?sca_esv=565618840&q=Sources+of+iron&uds=H4sIAAAAAAAA_-NS5WIPzi8tSk4tFmLxDPL3M2As4ocKKOSnKWQW5eftYGQ0AssBAMjORpctAAAA&sa=X&ved=2ahUKEwjjvZ2xs6yBAxUVEFkFHdycCzIQxKsJegQICxAB&ictx=0",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Sources+of+iron"
+      },
+      {
+        "position": 4,
+        "title": "Vitamin",
+        "link": "https://www.google.com/search?sca_esv=565618840&q=Iron+Vitamin&uds=H4sIAAAAAAAA_-OS52IPyyxJzM3ME2LxDPL3M2Aq4vEsys9TgIoagUUBljNAVicAAAA&sa=X&ved=2ahUKEwjjvZ2xs6yBAxUVEFkFHdycCzIQxKsJegQIChAB&ictx=0",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Iron+Vitamin"
+      },
+      {
+        "position": 5,
+        "title": "Metal",
+        "link": "https://www.google.com/search?sca_esv=565618840&q=Iron+metal&uds=H4sIAAAAAAAA_-OS5mL1TS1JzBFi8Qzy9zNgKuLyLMrPU8gFiRmBxQARIHEuIwAAAA&sa=X&ved=2ahUKEwjjvZ2xs6yBAxUVEFkFHdycCzIQxKsJegUIgAEQAQ&ictx=0",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Iron+metal"
+      },
+      {
+        "position": 6,
+        "title": "Food",
+        "link": "https://www.google.com/search?sca_esv=565618840&q=Food+with+iron&uds=H4sIAAAAAAAA_-NS5GJxy89PEWLxDPL3M2As4gPxFMozSzIUMovy83YwMhqBpQA6sfM2KQAAAA&sa=X&ved=2ahUKEwjjvZ2xs6yBAxUVEFkFHdycCzIQxKsJegUIhAEQAQ&ictx=0",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Food+with+iron"
+      },
+      {
+        "position": 7,
+        "title": "Shopping",
+        "link": "https://www.google.com/search?sca_esv=565618840&q=IRON&tbm=shop&source=lnms&sa=X&ved=2ahUKEwjjvZ2xs6yBAxUVEFkFHdycCzIQ0pQJegUIgQEQAQ",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=IRON"
+      },
+      {
+        "position": 8,
+        "title": "Iron for clothes",
+        "link": "https://www.google.com/search?sca_esv=565618840&q=Iron+for+clothes&uds=H4sIAAAAAAAA_-PS4RLwLMrPU0jLL1JIzskvyUgtFmLxDPL3M2AqwpAxAssAAPSotDI0AAAA&sa=X&ved=2ahUKEwjjvZ2xs6yBAxUVEFkFHdycCzIQxKsJegUIgwEQAQ&ictx=0",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Iron+for+clothes"
+      },
+      {
+        "position": 9,
+        "title": "Tablets",
+        "link": "https://www.google.com/search?sca_esv=565618840&q=Iron+tablets&uds=H4sIAAAAAAAA_-OS52IPSUzKSS0pFmLxDPL3M2Aq4vEsys9TKIGIGoFFAZ9RCTMnAAAA&sa=X&ved=2ahUKEwjjvZ2xs6yBAxUVEFkFHdycCzIQxKsJegUIggEQAQ&ictx=0",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Iron+tablets"
+      }
+    ]
+  },
+  "knowledge_graph": {
+    "title": "Iron",
+    "type": "Chemical element",
+    "main_tab_text": "Overview",
+    "kgmid": "/m/025rw19",
+    "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/m/025rw19&hl=en-US&q=Iron&kgs=90158322a47b563b&shndl=17&source=sh/x",
+    "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&hl=en-US&kgmid=%2Fm%2F025rw19&q=Iron",
+    "tabs": [
+      {
+        "text": "Food sources",
+        "si": "ALGXSlbWngN45F-JuJ1fKqdxy9I4MMZUoJ0yWxd9P0vCkNz9SxH8cMJxZyGCs1EmZ4HyKqkEm6PBX6Ij6c_QC7Nz6o1dXrC7tMu40hoxx_XgV71NWltCJf-9l14x198NCh_yCPoB8osv3GY-2LXU6I5CI8ikR0mALRcd2ew5dMN6vLcoslPfxlmIdm1kx__ey8Yr395XXLev7h6PdeAergvH-vtKD5UcIQ==",
+        "link": "https://www.google.com/search?si=ALGXSlbWngN45F-JuJ1fKqdxy9I4MMZUoJ0yWxd9P0vCkNz9SxH8cMJxZyGCs1EmZ4HyKqkEm6PBX6Ij6c_QC7Nz6o1dXrC7tMu40hoxx_XgV71NWltCJf-9l14x198NCh_yCPoB8osv3GY-2LXU6I5CI8ikR0mALRcd2ew5dMN6vLcoslPfxlmIdm1kx__ey8Yr395XXLev7h6PdeAergvH-vtKD5UcIQ==",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=IRON&si=ALGXSlbWngN45F-JuJ1fKqdxy9I4MMZUoJ0yWxd9P0vCkNz9SxH8cMJxZyGCs1EmZ4HyKqkEm6PBX6Ij6c_QC7Nz6o1dXrC7tMu40hoxx_XgV71NWltCJf-9l14x198NCh_yCPoB8osv3GY-2LXU6I5CI8ikR0mALRcd2ew5dMN6vLcoslPfxlmIdm1kx__ey8Yr395XXLev7h6PdeAergvH-vtKD5UcIQ%3D%3D"
+      },
+      {
+        "text": "Supplements",
+        "si": "ALGXSlb5qlE10IVr2VPa1oh1H-BVFcx29nUbKAsYce6bM1Xkyfe9U2Ky0_ANtKjCd-lT-9Yuj1W3MF_C-dnY4c2N0ZFxAwBcgBJMo5-Bo9dycVJgvpw_bB-YQii6QPS2H2CsmHMXG_4zcEoMBSL92MXroM9w1xg2cIkZDxNyJkL48TsxTTxIM40BVqympe5WAI-imd2nBCQl",
+        "link": "https://www.google.com/search?si=ALGXSlb5qlE10IVr2VPa1oh1H-BVFcx29nUbKAsYce6bM1Xkyfe9U2Ky0_ANtKjCd-lT-9Yuj1W3MF_C-dnY4c2N0ZFxAwBcgBJMo5-Bo9dycVJgvpw_bB-YQii6QPS2H2CsmHMXG_4zcEoMBSL92MXroM9w1xg2cIkZDxNyJkL48TsxTTxIM40BVqympe5WAI-imd2nBCQl",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=IRON&si=ALGXSlb5qlE10IVr2VPa1oh1H-BVFcx29nUbKAsYce6bM1Xkyfe9U2Ky0_ANtKjCd-lT-9Yuj1W3MF_C-dnY4c2N0ZFxAwBcgBJMo5-Bo9dycVJgvpw_bB-YQii6QPS2H2CsmHMXG_4zcEoMBSL92MXroM9w1xg2cIkZDxNyJkL48TsxTTxIM40BVqympe5WAI-imd2nBCQl"
+      },
+      {
+        "text": "Benefits",
+        "si": "ALGXSlZiZ72-YB9Q7pm_Z4P7X7PWrvo_CNp_6XyqhaD_1MQTIUVu0KrWiQZlHI6GwNXiwdsnNB2vTRy_4JNNzgIyf8BvYx3he8cNpVC66Zl-Xr02XWahlK_rOKhTm5NTTpLNdNf9x2FfmNi2iGixAGqca4JtBqrmMQCfD_kg-bfstIepeF3GSt4CLr36hFFESQuPgav1yufisHoYZkq0uuRtuYhqKATtftZdFKvxRfTEz63Lb7OzX151cbSzVj1moBN8vEewtYpl",
+        "link": "https://www.google.com/search?si=ALGXSlZiZ72-YB9Q7pm_Z4P7X7PWrvo_CNp_6XyqhaD_1MQTIUVu0KrWiQZlHI6GwNXiwdsnNB2vTRy_4JNNzgIyf8BvYx3he8cNpVC66Zl-Xr02XWahlK_rOKhTm5NTTpLNdNf9x2FfmNi2iGixAGqca4JtBqrmMQCfD_kg-bfstIepeF3GSt4CLr36hFFESQuPgav1yufisHoYZkq0uuRtuYhqKATtftZdFKvxRfTEz63Lb7OzX151cbSzVj1moBN8vEewtYpl",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=IRON&si=ALGXSlZiZ72-YB9Q7pm_Z4P7X7PWrvo_CNp_6XyqhaD_1MQTIUVu0KrWiQZlHI6GwNXiwdsnNB2vTRy_4JNNzgIyf8BvYx3he8cNpVC66Zl-Xr02XWahlK_rOKhTm5NTTpLNdNf9x2FfmNi2iGixAGqca4JtBqrmMQCfD_kg-bfstIepeF3GSt4CLr36hFFESQuPgav1yufisHoYZkq0uuRtuYhqKATtftZdFKvxRfTEz63Lb7OzX151cbSzVj1moBN8vEewtYpl"
+      },
+      {
+        "text": "Properties",
+        "si": "ALGXSlYPTyVDPJ2oTs8-YWblf96u_qGmCk3bP_txk6Nqsl5NKQY73BAPTCK2XnA6SydO_szFvIRpIuIwrINtBx0ueaCgIUaboV_xYBK79KR4ZniKhnAAgUNODqtqZdY3lbLa_F55fbXRBrJV4qNpGKEsm5G50lTmjhOyhFY7UyXQa-CfbZh1zYaaXFOmr7kNuUJgkpk1nHtk",
+        "link": "https://www.google.com/search?si=ALGXSlYPTyVDPJ2oTs8-YWblf96u_qGmCk3bP_txk6Nqsl5NKQY73BAPTCK2XnA6SydO_szFvIRpIuIwrINtBx0ueaCgIUaboV_xYBK79KR4ZniKhnAAgUNODqtqZdY3lbLa_F55fbXRBrJV4qNpGKEsm5G50lTmjhOyhFY7UyXQa-CfbZh1zYaaXFOmr7kNuUJgkpk1nHtk",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=IRON&si=ALGXSlYPTyVDPJ2oTs8-YWblf96u_qGmCk3bP_txk6Nqsl5NKQY73BAPTCK2XnA6SydO_szFvIRpIuIwrINtBx0ueaCgIUaboV_xYBK79KR4ZniKhnAAgUNODqtqZdY3lbLa_F55fbXRBrJV4qNpGKEsm5G50lTmjhOyhFY7UyXQa-CfbZh1zYaaXFOmr7kNuUJgkpk1nHtk"
+      },
+      {
+        "text": "Chemical compounds",
+        "si": "ALGXSlYF-4br-bdq0r2fU8TjY-jyEnNgIJqrSYPwl7ALY5S-X3QsXQZLZwcG-NfoJk6IcAhLcfn1zIUqh0FSIW3WT7evUrmxMJf0MNtIH-hvqm435wjoJO8Eh4obySfAPRG1f-YBHofyuMgH2XMf5YD_nwgih-49aWdqoLSC_xjCgGnYdbJbVtEpMkPZLkbjvVsZRzDys0ABlWmINHmVX97OMFB-9s9NStWfw8Taf76mkND99nroTGCidVT84ap9d2aTRCuyHatI-B_0SHCxEDA-QOslG_hROXFceQ9KUUYEH8ggYTl_q2IsQYVbqcXLje6iqowYdLV8lv74QqDEVbdBDr3Tzaeeff8EO3REMmEq_oMjBN24O_nh8HyALtXzzX2b4JlY8j0um9uRKglPzzsYrMG1kUvo_g==",
+        "link": "https://www.google.com/search?si=ALGXSlYF-4br-bdq0r2fU8TjY-jyEnNgIJqrSYPwl7ALY5S-X3QsXQZLZwcG-NfoJk6IcAhLcfn1zIUqh0FSIW3WT7evUrmxMJf0MNtIH-hvqm435wjoJO8Eh4obySfAPRG1f-YBHofyuMgH2XMf5YD_nwgih-49aWdqoLSC_xjCgGnYdbJbVtEpMkPZLkbjvVsZRzDys0ABlWmINHmVX97OMFB-9s9NStWfw8Taf76mkND99nroTGCidVT84ap9d2aTRCuyHatI-B_0SHCxEDA-QOslG_hROXFceQ9KUUYEH8ggYTl_q2IsQYVbqcXLje6iqowYdLV8lv74QqDEVbdBDr3Tzaeeff8EO3REMmEq_oMjBN24O_nh8HyALtXzzX2b4JlY8j0um9uRKglPzzsYrMG1kUvo_g==",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=IRON&si=ALGXSlYF-4br-bdq0r2fU8TjY-jyEnNgIJqrSYPwl7ALY5S-X3QsXQZLZwcG-NfoJk6IcAhLcfn1zIUqh0FSIW3WT7evUrmxMJf0MNtIH-hvqm435wjoJO8Eh4obySfAPRG1f-YBHofyuMgH2XMf5YD_nwgih-49aWdqoLSC_xjCgGnYdbJbVtEpMkPZLkbjvVsZRzDys0ABlWmINHmVX97OMFB-9s9NStWfw8Taf76mkND99nroTGCidVT84ap9d2aTRCuyHatI-B_0SHCxEDA-QOslG_hROXFceQ9KUUYEH8ggYTl_q2IsQYVbqcXLje6iqowYdLV8lv74QqDEVbdBDr3Tzaeeff8EO3REMmEq_oMjBN24O_nh8HyALtXzzX2b4JlY8j0um9uRKglPzzsYrMG1kUvo_g%3D%3D"
+      }
+    ],
+    "description": "Iron is a chemical element with the symbol Fe and atomic number 26. It is a metal that belongs to the first transition series and group 8 of the periodic table. It is, by mass, the most common element on Earth, just ahead of oxygen, forming much of Earth's outer and inner core.",
+    "source": {
+      "name": "Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Iron"
+    },
+    "symbol": "Fe",
+    "atomic_mass": "55.845 u",
+    "atomic_number": "26",
+    "vitamins": "vitamin C",
+    "vitamins_links": [
+      {
+        "text": "nih.gov",
+        "link": "https://ods.od.nih.gov/factsheets/Iron-Consumer/"
+      }
+    ],
+    "density_near_r_t": "7.874 g/cm3",
+    "discovery": "before 5000 BC",
+    "electron_configuration": "3d6 4s2",
+    "iron_compounds": [
+      {
+        "name": "Iron compounds",
+        "link": "https://www.google.com/search?sca_esv=565618840&q=Iron+compounds&stick=H4sIAAAAAAAAAONgFmJQ4tVP1zc0TKsyKMvNyTHQYljEyudZlJ-nkJyfW5BfmpdSvIOVEQAczsxZKQAAAA&sa=X&ved=2ahUKEwjjvZ2xs6yBAxUVEFkFHdycCzIQxA16BAgeEAM",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Iron+compounds&stick=H4sIAAAAAAAAAONgFmJQ4tVP1zc0TKsyKMvNyTHQYljEyudZlJ-nkJyfW5BfmpdSvIOVEQAczsxZKQAAAA",
+        "image": "https://serpapi.com/searches/650431172bc7d8d7bee2c7d9/images/4d2585058ea05f610e963bb8b8b4d21d1935c61427285720b6492320e803806ce4c9e9a1dba9d421.png"
+      },
+      {
+        "name": "Iron(II) oxide",
+        "link": "https://www.google.com/search?sca_esv=565618840&q=Iron(II)+oxide&stick=H4sIAAAAAAAAAONgFmJQ4tTP1TcwSklJMtBiWMTK51mUn6fh6ampkF-RmZK6g5URAF3nPeklAAAA&sa=X&ved=2ahUKEwjjvZ2xs6yBAxUVEFkFHdycCzIQxA16BAgeEAU",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Iron%28II%29+oxide&stick=H4sIAAAAAAAAAONgFmJQ4tTP1TcwSklJMtBiWMTK51mUn6fh6ampkF-RmZK6g5URAF3nPeklAAAA",
+        "image": "https://serpapi.com/searches/650431172bc7d8d7bee2c7d9/images/4d2585058ea05f610e963bb8b8b4d21d1935c61427285720cf6d20f5f46f607f7d94f7bd0bcc57c9.jpeg"
+      },
+      {
+        "name": "Disodium tetracarbonylferrate",
+        "link": "https://www.google.com/search?sca_esv=565618840&q=Disodium+tetracarbonylferrate&stick=H4sIAAAAAAAAAONgFmJQ4tLP1TcwMqsqK8_WYljEKuuSWZyfklmaq1CSWlKUmJxYlJSfV5mTllpUlFiSuoOVEQDrHkrQNQAAAA&sa=X&ved=2ahUKEwjjvZ2xs6yBAxUVEFkFHdycCzIQxA16BAgeEAc",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Disodium+tetracarbonylferrate&stick=H4sIAAAAAAAAAONgFmJQ4tLP1TcwMqsqK8_WYljEKuuSWZyfklmaq1CSWlKUmJxYlJSfV5mTllpUlFiSuoOVEQDrHkrQNQAAAA",
+        "image": "https://serpapi.com/searches/650431172bc7d8d7bee2c7d9/images/4d2585058ea05f610e963bb8b8b4d21d1935c614272857204523620fe98f91a698c7fd0ffcaa9e4c.png"
+      },
+      {
+        "name": "Potassium ferrate",
+        "link": "https://www.google.com/search?sca_esv=565618840&q=Potassium+ferrate&stick=H4sIAAAAAAAAAONgFmJQ4tTP1TcwKcwrKtFiWMQqGJBfklhcnFmaq5CWWlSUWJK6g5URAHLQfbYoAAAA&sa=X&ved=2ahUKEwjjvZ2xs6yBAxUVEFkFHdycCzIQxA16BAgeEAk",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Potassium+ferrate&stick=H4sIAAAAAAAAAONgFmJQ4tTP1TcwKcwrKtFiWMQqGJBfklhcnFmaq5CWWlSUWJK6g5URAHLQfbYoAAAA",
+        "image": "https://serpapi.com/searches/650431172bc7d8d7bee2c7d9/images/4d2585058ea05f610e963bb8b8b4d21d1935c614272857207c5bc6e6a1b541f3fa3ba1742b806006.png"
+      }
+    ]
+  },
+  "related_questions": [
+    {
+      "question": "What happens when your iron is low?",
+      "snippet": "Severe iron deficiency anaemia may increase your risk of developing complications that affect the heart or lungs, such as an abnormally fast heartbeat (tachycardia) or heart failure, where your heart is unable to pump enough blood around your body at the right pressure.",
+      "title": "Iron deficiency anaemia - Illnesses & conditions - NHS inform",
+      "date": "Mar 10, 2023",
+      "link": "https://www.nhsinform.scot/illnesses-and-conditions/nutritional/iron-deficiency-anaemia#:~:text=Severe%20iron%20deficiency%20anaemia%20may,body%20at%20the%20right%20pressure.",
+      "displayed_link": "https://www.nhsinform.scot › nutritional › iron-deficienc...",
+      "thumbnail": "https://serpapi.com/searches/650431172bc7d8d7bee2c7d9/images/054f83f72087dfadb34da48dc613ce06245a231e5937d726fee03bce71815818.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsWWFtWkVNRlJZTUdGNE1uVnJORlIxZUhaZmIxQnFkMHBxVldGclFVUk9ibmhsY3psVGFUSnVUbW81TW0xUlRGaHJNMk5oZEVJeVFuVmZZWFExTldSMGFISlZjMjlzRWhkSFJFVkZXbVZRVWtzMVYyYzFUbTlRTTB4dGRXdEJUUm9pUVVwM2F5MDRaWHBGWVZSRVJtNDROMkpHUm0xc1dsOWFRVkl3WkdSYVluRkJadyIsImZjdiI6IjMiLCJlaSI6IkdERUVaZVBSSzVXZzVOb1AzTG11a0FNIiwicWMiOiJDZ1JwY205dUVBQjl2UEpDUHciLCJxdWVzdGlvbiI6IldoYXQgaGFwcGVucyB3aGVuIHlvdXIgaXJvbiBpcyBsb3c/IiwibGsiOiJHaUozYUdGMElHaGhjSEJsYm5NZ2QyaGxiaUI1YjNWeUlHbHliMjRnYVhNZ2JHOTMiLCJicyI6ImN6WE5NUTdDTUJCRVVkRnVBMlhLa1NnQUNkRlFVYVdGRTFBYmU0TXRqTmZZQ1ZIRURUZ0NCLUNjaEFUS2taN20wNUxtUjZ0cVdCVWpoNHpXY2tBblRZSkxFdUF5dkxSbDhkclJYeHJoak5yeUNJeWdralRzazVpdUxONlIxclRZU3d1dEFnNUl5bVhHdFJ1NTV6djdqRnZqOU1WXzlZTTJ0QnAtVmVMaFpvdGNxM1Bma09xWDRNcHB4MEgzX2ptZFRUNCIsImlkIjoiZmNfMiJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsWWFtWkVNRlJZTUdGNE1uVnJORlIxZUhaZmIxQnFkMHBxVldGclFVUk9ibmhsY3psVGFUSnVUbW81TW0xUlRGaHJNMk5oZEVJeVFuVmZZWFExTldSMGFISlZjMjlzRWhkSFJFVkZXbVZRVWtzMVYyYzFUbTlRTTB4dGRXdEJUUm9pUVVwM2F5MDRaWHBGWVZSRVJtNDROMkpHUm0xc1dsOWFRVkl3WkdSYVluRkJadyIsImZjdiI6IjMiLCJlaSI6IkdERUVaZVBSSzVXZzVOb1AzTG11a0FNIiwicWMiOiJDZ1JwY205dUVBQjl2UEpDUHciLCJxdWVzdGlvbiI6IldoYXQgaGFwcGVucyB3aGVuIHlvdXIgaXJvbiBpcyBsb3c%2FIiwibGsiOiJHaUozYUdGMElHaGhjSEJsYm5NZ2QyaGxiaUI1YjNWeUlHbHliMjRnYVhNZ2JHOTMiLCJicyI6ImN6WE5NUTdDTUJCRVVkRnVBMlhLa1NnQUNkRlFVYVdGRTFBYmU0TXRqTmZZQ1ZIRURUZ0NCLUNjaEFUS2taN20wNUxtUjZ0cVdCVWpoNHpXY2tBblRZSkxFdUF5dkxSbDhkclJYeHJoak5yeUNJeWdralRzazVpdUxONlIxclRZU3d1dEFnNUl5bVhHdFJ1NTV6djdqRnZqOU1WXzlZTTJ0QnAtVmVMaFpvdGNxM1Bma09xWDRNcHB4MEgzX2ptZFRUNCIsImlkIjoiZmNfMiJ9"
+    },
+    {
+      "question": "What does the iron do for the body?",
+      "snippet": "Iron is a mineral that the body needs for growth and development. Your body uses iron to make hemoglobin, a protein in red blood cells that carries oxygen from the lungs to all parts of the body, and myoglobin, a protein that provides oxygen to muscles. Your body also needs iron to make some hormones.",
+      "title": "Iron - Consumer - NIH Office of Dietary Supplements",
+      "date": "Aug 17, 2023",
+      "link": "https://ods.od.nih.gov/factsheets/Iron-Consumer/#:~:text=Iron%20is%20a%20mineral%20that,iron%20to%20make%20some%20hormones.",
+      "displayed_link": "https://ods.od.nih.gov › factsheets › Iron-Consumer",
+      "thumbnail": "https://serpapi.com/searches/650431172bc7d8d7bee2c7d9/images/054f83f72087dfadb34da48dc613ce06ec8093df5d39695a999c13f97d014f69.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsWWFtWkVNRlJZTUdGNE1uVnJORlIxZUhaZmIxQnFkMHBxVldGclFVUk9ibmhsY3psVGFUSnVUbW81TW0xUlRGaHJNMk5oZEVJeVFuVmZZWFExTldSMGFISlZjMjlzRWhkSFJFVkZXbVZRVWtzMVYyYzFUbTlRTTB4dGRXdEJUUm9pUVVwM2F5MDRaWHBGWVZSRVJtNDROMkpHUm0xc1dsOWFRVkl3WkdSYVluRkJadyIsImZjdiI6IjMiLCJlaSI6IkdERUVaZVBSSzVXZzVOb1AzTG11a0FNIiwicWMiOiJDZ1JwY205dUVBQjl2UEpDUHciLCJxdWVzdGlvbiI6IldoYXQgZG9lcyB0aGUgaXJvbiBkbyBmb3IgdGhlIGJvZHk/IiwibGsiOiJjNU5TS3M5SUxGRkl5VTh0VmlqSlNGWElMTXJQQV9JVTB2S0x3UHlrX0pSS0FBIiwiYnMiOiJjelhOTVE3Q01CQkVVZEZ1QTJYS2tTZ0FDZEZRVWFXRkUxQWJlNE10ak5mWUNWSEVEVGdDQi1DY2hBVEtrWjdtMDVMbVI2dHFXQlVqaDR6V2NrQW5UWUpMRXVBeXZMUmw4ZHJSWHhyaGpOcnlDSXlna2pUc2s1aXVMTjZSMXJUWVN3dXRBZzVJeW1YR3RSdTU1enY3akZ2ajlNVl85WU0ydEJwLVZlTGhab3RjcTNQZmtPcVg0TXBweDBIM19qbWRUVDQiLCJpZCI6ImZjXzIifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsWWFtWkVNRlJZTUdGNE1uVnJORlIxZUhaZmIxQnFkMHBxVldGclFVUk9ibmhsY3psVGFUSnVUbW81TW0xUlRGaHJNMk5oZEVJeVFuVmZZWFExTldSMGFISlZjMjlzRWhkSFJFVkZXbVZRVWtzMVYyYzFUbTlRTTB4dGRXdEJUUm9pUVVwM2F5MDRaWHBGWVZSRVJtNDROMkpHUm0xc1dsOWFRVkl3WkdSYVluRkJadyIsImZjdiI6IjMiLCJlaSI6IkdERUVaZVBSSzVXZzVOb1AzTG11a0FNIiwicWMiOiJDZ1JwY205dUVBQjl2UEpDUHciLCJxdWVzdGlvbiI6IldoYXQgZG9lcyB0aGUgaXJvbiBkbyBmb3IgdGhlIGJvZHk%2FIiwibGsiOiJjNU5TS3M5SUxGRkl5VTh0VmlqSlNGWElMTXJQQV9JVTB2S0x3UHlrX0pSS0FBIiwiYnMiOiJjelhOTVE3Q01CQkVVZEZ1QTJYS2tTZ0FDZEZRVWFXRkUxQWJlNE10ak5mWUNWSEVEVGdDQi1DY2hBVEtrWjdtMDVMbVI2dHFXQlVqaDR6V2NrQW5UWUpMRXVBeXZMUmw4ZHJSWHhyaGpOcnlDSXlna2pUc2s1aXVMTjZSMXJUWVN3dXRBZzVJeW1YR3RSdTU1enY3akZ2ajlNVl85WU0ydEJwLVZlTGhab3RjcTNQZmtPcVg0TXBweDBIM19qbWRUVDQiLCJpZCI6ImZjXzIifQ%3D%3D"
+    },
+    {
+      "question": "How can I raise my iron levels quickly?",
+      "title": "Foods rich in iron include:",
+      "link": "https://www.mayoclinic.org/diseases-conditions/iron-deficiency-anemia/symptoms-causes/syc-20355034",
+      "list": [
+        "Red meat, pork and poultry.",
+        "Seafood.",
+        "Beans.",
+        "Dark green leafy vegetables, such as spinach.",
+        "Dried fruit, such as raisins and apricots.",
+        "Iron-fortified cereals, breads and pastas.",
+        "Peas."
+      ],
+      "displayed_link": "https://www.mayoclinic.org › syc-20355034",
+      "thumbnail": "https://serpapi.com/searches/650431172bc7d8d7bee2c7d9/images/054f83f72087dfadb34da48dc613ce06a8701db92d25f9d84dddba4ffa292f8a.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsWWFtWkVNRlJZTUdGNE1uVnJORlIxZUhaZmIxQnFkMHBxVldGclFVUk9ibmhsY3psVGFUSnVUbW81TW0xUlRGaHJNMk5oZEVJeVFuVmZZWFExTldSMGFISlZjMjlzRWhkSFJFVkZXbVZRVWtzMVYyYzFUbTlRTTB4dGRXdEJUUm9pUVVwM2F5MDRaWHBGWVZSRVJtNDROMkpHUm0xc1dsOWFRVkl3WkdSYVluRkJadyIsImZjdiI6IjMiLCJlaSI6IkdERUVaZVBSSzVXZzVOb1AzTG11a0FNIiwicWMiOiJDZ1JwY205dUVBQjl2UEpDUHciLCJxdWVzdGlvbiI6IkhvdyBjYW4gSSByYWlzZSBteSBpcm9uIGxldmVscyBxdWlja2x5PyIsImxrIjoiR2lab2IzY2dZMkZ1SUdrZ2NtRnBjMlVnYlhrZ2FYSnZiaUJzWlhabGJITWdjWFZwWTJ0c2VRIiwiYnMiOiJjelhOTVE3Q01CQkVVZEZ1QTJYS2tTZ0FDZEZRVWFXRkUxQWJlNE10ak5mWUNWSEVEVGdDQi1DY2hBVEtrWjdtMDVMbVI2dHFXQlVqaDR6V2NrQW5UWUpMRXVBeXZMUmw4ZHJSWHhyaGpOcnlDSXlna2pUc2s1aXVMTjZSMXJUWVN3dXRBZzVJeW1YR3RSdTU1enY3akZ2ajlNVl85WU0ydEJwLVZlTGhab3RjcTNQZmtPcVg0TXBweDBIM19qbWRUVDQiLCJpZCI6ImZjXzIifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsWWFtWkVNRlJZTUdGNE1uVnJORlIxZUhaZmIxQnFkMHBxVldGclFVUk9ibmhsY3psVGFUSnVUbW81TW0xUlRGaHJNMk5oZEVJeVFuVmZZWFExTldSMGFISlZjMjlzRWhkSFJFVkZXbVZRVWtzMVYyYzFUbTlRTTB4dGRXdEJUUm9pUVVwM2F5MDRaWHBGWVZSRVJtNDROMkpHUm0xc1dsOWFRVkl3WkdSYVluRkJadyIsImZjdiI6IjMiLCJlaSI6IkdERUVaZVBSSzVXZzVOb1AzTG11a0FNIiwicWMiOiJDZ1JwY205dUVBQjl2UEpDUHciLCJxdWVzdGlvbiI6IkhvdyBjYW4gSSByYWlzZSBteSBpcm9uIGxldmVscyBxdWlja2x5PyIsImxrIjoiR2lab2IzY2dZMkZ1SUdrZ2NtRnBjMlVnYlhrZ2FYSnZiaUJzWlhabGJITWdjWFZwWTJ0c2VRIiwiYnMiOiJjelhOTVE3Q01CQkVVZEZ1QTJYS2tTZ0FDZEZRVWFXRkUxQWJlNE10ak5mWUNWSEVEVGdDQi1DY2hBVEtrWjdtMDVMbVI2dHFXQlVqaDR6V2NrQW5UWUpMRXVBeXZMUmw4ZHJSWHhyaGpOcnlDSXlna2pUc2s1aXVMTjZSMXJUWVN3dXRBZzVJeW1YR3RSdTU1enY3akZ2ajlNVl85WU0ydEJwLVZlTGhab3RjcTNQZmtPcVg0TXBweDBIM19qbWRUVDQiLCJpZCI6ImZjXzIifQ%3D%3D"
+    },
+    {
+      "question": "What are the 3 stages of iron deficiency?",
+      "title": "This occurs in three stages:",
+      "date": "Apr 21, 2022",
+      "link": "https://my.clevelandclinic.org/health/diseases/22824-iron-deficiency-anemia",
+      "list": [
+        "First stage: Iron stores are depleted. ... ",
+        "Second stage: When iron stores are low, the normal process of making red blood cells is altered. ... ",
+        "Third stage: Iron-deficiency anemia develops because there isn't enough iron to make hemoglobin for red blood cells."
+      ],
+      "displayed_link": "https://my.clevelandclinic.org › health › diseases › 2282...",
+      "thumbnail": "https://serpapi.com/searches/650431172bc7d8d7bee2c7d9/images/054f83f72087dfadb34da48dc613ce06de0ad0780ab4b291d1c01c9d45965334.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsWWFtWkVNRlJZTUdGNE1uVnJORlIxZUhaZmIxQnFkMHBxVldGclFVUk9ibmhsY3psVGFUSnVUbW81TW0xUlRGaHJNMk5oZEVJeVFuVmZZWFExTldSMGFISlZjMjlzRWhkSFJFVkZXbVZRVWtzMVYyYzFUbTlRTTB4dGRXdEJUUm9pUVVwM2F5MDRaWHBGWVZSRVJtNDROMkpHUm0xc1dsOWFRVkl3WkdSYVluRkJadyIsImZjdiI6IjMiLCJlaSI6IkdERUVaZVBSSzVXZzVOb1AzTG11a0FNIiwicWMiOiJDZ1JwY205dUVBQjl2UEpDUHciLCJxdWVzdGlvbiI6IldoYXQgYXJlIHRoZSAzIHN0YWdlcyBvZiBpcm9uIGRlZmljaWVuY3k/IiwibGsiOiJHaWgzYUdGMElHRnlaU0IwYUdVZ015QnpkR0ZuWlhNZ2IyWWdhWEp2YmlCa1pXWnBZMmxsYm1ONSIsImJzIjoiY3pYTk1RN0NNQkJFVWRGdUEyWEtrU2dBQ2RGUVVhV0ZFMUFiZTRNdGpOZllDVkhFRFRnQ0ItQ2NoQVRLa1o3bTA1TG1SNnRxV0JVamg0eldja0FuVFlKTEV1QXl2TFJsOGRyUlh4cmhqTnJ5Q0l5Z2tqVHNrNWl1TE42UjFyVFlTd3V0QWc1SXltWEd0UnU1NXp2N2pGdmo5TVZfOVlNMnRCcC1WZUxoWm90Y3EzUGZrT3FYNE1wcHgwSDNfam1kVFQ0IiwiaWQiOiJmY18yIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsWWFtWkVNRlJZTUdGNE1uVnJORlIxZUhaZmIxQnFkMHBxVldGclFVUk9ibmhsY3psVGFUSnVUbW81TW0xUlRGaHJNMk5oZEVJeVFuVmZZWFExTldSMGFISlZjMjlzRWhkSFJFVkZXbVZRVWtzMVYyYzFUbTlRTTB4dGRXdEJUUm9pUVVwM2F5MDRaWHBGWVZSRVJtNDROMkpHUm0xc1dsOWFRVkl3WkdSYVluRkJadyIsImZjdiI6IjMiLCJlaSI6IkdERUVaZVBSSzVXZzVOb1AzTG11a0FNIiwicWMiOiJDZ1JwY205dUVBQjl2UEpDUHciLCJxdWVzdGlvbiI6IldoYXQgYXJlIHRoZSAzIHN0YWdlcyBvZiBpcm9uIGRlZmljaWVuY3k%2FIiwibGsiOiJHaWgzYUdGMElHRnlaU0IwYUdVZ015QnpkR0ZuWlhNZ2IyWWdhWEp2YmlCa1pXWnBZMmxsYm1ONSIsImJzIjoiY3pYTk1RN0NNQkJFVWRGdUEyWEtrU2dBQ2RGUVVhV0ZFMUFiZTRNdGpOZllDVkhFRFRnQ0ItQ2NoQVRLa1o3bTA1TG1SNnRxV0JVamg0eldja0FuVFlKTEV1QXl2TFJsOGRyUlh4cmhqTnJ5Q0l5Z2tqVHNrNWl1TE42UjFyVFlTd3V0QWc1SXltWEd0UnU1NXp2N2pGdmo5TVZfOVlNMnRCcC1WZUxoWm90Y3EzUGZrT3FYNE1wcHgwSDNfam1kVFQ0IiwiaWQiOiJmY18yIn0%3D"
+    }
+  ],
+  "answer_box": {
+    "type": "organic_result",
+    "title": "Iron - Health Professional Fact Sheet",
+    "link": "https://ods.od.nih.gov/factsheets/Iron-HealthProfessional/#:~:text=sheet%20on%20Iron.-,Introduction,to%20the%20tissues%20%5B1%5D.",
+    "displayed_link": "https://ods.od.nih.gov › factsheets › Iron-HealthProfessio...",
+    "date": "Jun 15, 2023",
+    "snippet": "Introduction. Iron is a mineral that is naturally present in many foods, added to some food products, and available as a dietary supplement. Iron is an essential component of hemoglobin, an erythrocyte (red blood cell) protein that transfers oxygen from the lungs to the tissues [1].",
+    "snippet_highlighted_words": [
+      "a mineral that is naturally present in many foods, added to some food products, and available as a dietary supplement"
+    ],
+    "favicon": "https://serpapi.com/searches/650431172bc7d8d7bee2c7d9/images/a63b7975fe5daae3f1418a4cecf387ce5ab413cfb8394d05.png",
+    "source": "National Institutes of Health (.gov)",
+    "about_this_result": {
+      "keywords": [
+        "iron"
+      ],
+      "languages": [
+        "English"
+      ],
+      "regions": [
+        "United States"
+      ]
+    },
+    "about_page_link": "https://www.google.comhttps://myaccount.google.com/yourdata/search"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Iron",
+      "link": "https://en.wikipedia.org/wiki/Iron",
+      "displayed_link": "https://en.wikipedia.org › wiki › Iron",
+      "thumbnail": "https://serpapi.com/searches/650431172bc7d8d7bee2c7d9/images/252096983ee69b5551f535984402f6f9a108db81079641e44e46be7d901bad88.jpeg",
+      "favicon": "https://serpapi.com/searches/650431172bc7d8d7bee2c7d9/images/252096983ee69b5551f535984402f6f9052ec175b36568b2fd0de26bb2eecf8c.png",
+      "snippet": "Iron is a chemical element with the symbol Fe (from Latin ferrum 'iron') and atomic number 26. It is a metal that belongs to the first transition series and ...",
+      "snippet_highlighted_words": [
+        "Iron",
+        "iron"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Iron oxide",
+            "link": "https://en.wikipedia.org/wiki/Iron_oxide"
+          },
+          {
+            "title": "Human iron metabolism",
+            "link": "https://en.wikipedia.org/wiki/Human_iron_metabolism"
+          },
+          {
+            "title": "Iron ore",
+            "link": "https://en.wikipedia.org/wiki/Iron_ore"
+          },
+          {
+            "title": "Allotropes of iron",
+            "link": "https://en.wikipedia.org/wiki/Allotropes_of_iron"
+          }
+        ]
+      },
+      "about_this_result": {
+        "keywords": [
+          "iron"
+        ],
+        "languages": [
+          "English"
+        ],
+        "regions": [
+          "United States"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://en.wikipedia.org/wiki/Iron&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FIron",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:wXtevfUcrjEJ:https://en.wikipedia.org/wiki/Iron&cd=26&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?sca_esv=565618840&q=related:https://en.wikipedia.org/wiki/Iron+IRON",
+      "source": "Wikipedia"
+    },
+    {
+      "position": 2,
+      "title": "Iron",
+      "link": "https://medlineplus.gov/iron.html",
+      "displayed_link": "https://medlineplus.gov › Health Topics",
+      "thumbnail": "https://serpapi.com/searches/650431172bc7d8d7bee2c7d9/images/252096983ee69b5551f535984402f6f9781310a2a994691dbec8daa6cdfdee06.jpeg",
+      "favicon": "https://serpapi.com/searches/650431172bc7d8d7bee2c7d9/images/252096983ee69b5551f535984402f6f979be8b2570aea3f4a7db4d1a17070ebe.png",
+      "snippet": "Iron is a mineral that our bodies need for many functions. For example, iron is part of hemoglobin, a protein which carries oxygen from our lungs throughout ...",
+      "snippet_highlighted_words": [
+        "Iron",
+        "iron"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Iron Tests",
+            "link": "https://medlineplus.gov/lab-tests/iron-tests/"
+          },
+          {
+            "title": "Iron in diet",
+            "link": "https://medlineplus.gov/ency/article/002422.htm"
+          },
+          {
+            "title": "Iron deficiency anemia",
+            "link": "https://medlineplus.gov/ency/article/000584.htm"
+          }
+        ]
+      },
+      "about_this_result": {
+        "keywords": [
+          "iron"
+        ],
+        "languages": [
+          "English"
+        ],
+        "regions": [
+          "United States"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://medlineplus.gov/iron.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fmedlineplus.gov%2Firon.html",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:ZEs1HI6zs0UJ:https://medlineplus.gov/iron.html&cd=35&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?sca_esv=565618840&q=related:https://medlineplus.gov/iron.html+IRON",
+      "source": "MedlinePlus (.gov)"
+    },
+    {
+      "position": 3,
+      "title": "Iron - Consumer - NIH Office of Dietary Supplements",
+      "link": "https://ods.od.nih.gov/factsheets/Iron-Consumer/",
+      "displayed_link": "https://ods.od.nih.gov › factsheets › Iron-Consumer",
+      "favicon": "https://serpapi.com/searches/650431172bc7d8d7bee2c7d9/images/252096983ee69b5551f535984402f6f9c332d65d0bb2811ef1dd67953c2dd852.png",
+      "date": "Aug 17, 2023",
+      "snippet": "Iron is a mineral that the body needs for growth and development. Your body uses iron to make hemoglobin, a protein in red blood cells that ...",
+      "snippet_highlighted_words": [
+        "Iron",
+        "iron"
+      ],
+      "about_this_result": {
+        "keywords": [
+          "iron"
+        ],
+        "languages": [
+          "English"
+        ],
+        "regions": [
+          "United States"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://ods.od.nih.gov/factsheets/Iron-Consumer/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fods.od.nih.gov%2Ffactsheets%2FIron-Consumer%2F",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:2SDDQD6kbQEJ:https://ods.od.nih.gov/factsheets/Iron-Consumer/&cd=36&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?sca_esv=565618840&q=related:https://ods.od.nih.gov/factsheets/Iron-Consumer/+IRON",
+      "source": "National Institutes of Health (.gov)"
+    },
+    {
+      "position": 4,
+      "title": "Iron | The Nutrition Source | Harvard T.H. Chan School of ...",
+      "link": "https://www.hsph.harvard.edu/nutritionsource/iron/",
+      "displayed_link": "https://www.hsph.harvard.edu › nutritionsource › iron",
+      "favicon": "https://serpapi.com/searches/650431172bc7d8d7bee2c7d9/images/252096983ee69b5551f535984402f6f9b061bbdc342ea2ae77ec18713ac610ea.png",
+      "snippet": "Iron is an important mineral that helps maintain healthy blood. A lack of iron is called iron-deficiency anemia, which affects about 4-5 million Americans ...",
+      "snippet_highlighted_words": [
+        "Iron",
+        "iron",
+        "iron"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Food Sources",
+            "link": "https://www.hsph.harvard.edu/nutritionsource/iron/#:~:text=Food%20Sources"
+          },
+          {
+            "title": "Signs Of Deficiency And...",
+            "link": "https://www.hsph.harvard.edu/nutritionsource/iron/#:~:text=Signs%20of%20Deficiency%20and%20Toxicity"
+          },
+          {
+            "title": "Confusion With Iron...",
+            "link": "https://www.hsph.harvard.edu/nutritionsource/iron/#:~:text=Confusion%20with%20iron%20supplements"
+          }
+        ]
+      },
+      "about_this_result": {
+        "keywords": [
+          "iron"
+        ],
+        "languages": [
+          "United States"
+        ],
+        "regions": [
+          "search"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.hsph.harvard.edu/nutritionsource/iron/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.hsph.harvard.edu%2Fnutritionsource%2Firon%2F",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:sSOAmO1-yUAJ:https://www.hsph.harvard.edu/nutritionsource/iron/&cd=37&hl=en&ct=clnk&gl=us",
+      "source": "Harvard T.H. Chan School of Public Health"
+    },
+    {
+      "position": 5,
+      "title": "Iron - Element information, properties and uses",
+      "link": "https://www.rsc.org/periodic-table/element/26/iron",
+      "displayed_link": "https://www.rsc.org › periodic-table › element › iron",
+      "snippet": "Iron is the fourth most abundant element, by mass, in the Earth's crust. The core of the Earth is thought to be largely composed of iron with nickel and sulfur.",
+      "snippet_highlighted_words": [
+        "Iron",
+        "iron"
+      ],
+      "about_this_result": {
+        "keywords": [
+          "iron"
+        ],
+        "languages": [
+          "English"
+        ],
+        "regions": [
+          "United States"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.rsc.org/periodic-table/element/26/iron&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.rsc.org%2Fperiodic-table%2Felement%2F26%2Firon",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:wpiJsXvBsKUJ:https://www.rsc.org/periodic-table/element/26/iron&cd=38&hl=en&ct=clnk&gl=us",
+      "source": "Royal Society of Chemistry"
+    },
+    {
+      "position": 6,
+      "title": "Iron deficiency anemia - Symptoms & causes",
+      "link": "https://www.mayoclinic.org/diseases-conditions/iron-deficiency-anemia/symptoms-causes/syc-20355034",
+      "displayed_link": "https://www.mayoclinic.org › syc-20355034",
+      "favicon": "https://serpapi.com/searches/650431172bc7d8d7bee2c7d9/images/252096983ee69b5551f535984402f6f932c4784558ab638addc4544e27ae6499.png",
+      "snippet": "Iron deficiency anemia is a common type of anemia — a condition in which blood lacks adequate healthy red blood cells. Red blood cells carry oxygen to the ...",
+      "snippet_highlighted_words": [
+        "Iron"
+      ],
+      "about_this_result": {
+        "keywords": [
+          "iron"
+        ],
+        "languages": [
+          "English"
+        ],
+        "regions": [
+          "United States"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.mayoclinic.org/diseases-conditions/iron-deficiency-anemia/symptoms-causes/syc-20355034&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.mayoclinic.org%2Fdiseases-conditions%2Firon-deficiency-anemia%2Fsymptoms-causes%2Fsyc-20355034",
+      "source": "Mayo Clinic"
+    },
+    {
+      "position": 7,
+      "title": "Iron | Element, Occurrence, Uses, Properties, & Compounds",
+      "link": "https://www.britannica.com/science/iron-chemical-element",
+      "displayed_link": "https://www.britannica.com › ... › Earth Sciences",
+      "favicon": "https://serpapi.com/searches/650431172bc7d8d7bee2c7d9/images/252096983ee69b5551f535984402f6f9aba711e273f92dc0a3cbde7e4139a07f.png",
+      "snippet": "Iron (Fe), chemical element and one of the transition elements, the most-used and cheapest metal. Iron makes up 5 percent of Earth's crust and is second in ...",
+      "snippet_highlighted_words": [
+        "Iron",
+        "Iron"
+      ],
+      "about_this_result": {
+        "keywords": [
+          "iron"
+        ],
+        "languages": [
+          "English"
+        ],
+        "regions": [
+          "United States"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.britannica.com/science/iron-chemical-element&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.britannica.com%2Fscience%2Firon-chemical-element",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:-0VpazHYsSEJ:https://www.britannica.com/science/iron-chemical-element&cd=40&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?sca_esv=565618840&q=related:https://www.britannica.com/science/iron-chemical-element+IRON",
+      "source": "Britannica"
+    },
+    {
+      "position": 8,
+      "title": "Iron-Rich Food | List of Meats And Vegetables",
+      "link": "https://www.redcrossblood.org/donate-blood/blood-donation-process/before-during-after/iron-blood-donation/iron-rich-foods.html",
+      "displayed_link": "https://www.redcrossblood.org › iron-blood-donation",
+      "favicon": "https://serpapi.com/searches/650431172bc7d8d7bee2c7d9/images/252096983ee69b5551f535984402f6f9a2741a872d271f4f54f3779ec433896c.png",
+      "snippet": "Heme iron is found in meat, fish and poultry. It is the form of iron that is most readily absorbed by your body. You absorb up to 30 percent of the heme iron ...",
+      "snippet_highlighted_words": [
+        "iron",
+        "iron",
+        "iron"
+      ],
+      "about_this_result": {
+        "keywords": [
+          "iron"
+        ],
+        "languages": [
+          "English"
+        ],
+        "regions": [
+          "United States"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.redcrossblood.org/donate-blood/blood-donation-process/before-during-after/iron-blood-donation/iron-rich-foods.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.redcrossblood.org%2Fdonate-blood%2Fblood-donation-process%2Fbefore-during-after%2Firon-blood-donation%2Firon-rich-foods.html",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:O1sDOCEgOT4J:https://www.redcrossblood.org/donate-blood/blood-donation-process/before-during-after/iron-blood-donation/iron-rich-foods.html&cd=41&hl=en&ct=clnk&gl=us",
+      "source": "Red Cross Blood Donation"
+    },
+    {
+      "position": 9,
+      "title": "Hemoglobin and Functions of Iron | Patient Education",
+      "link": "https://www.ucsfhealth.org/education/hemoglobin-and-functions-of-iron",
+      "displayed_link": "https://www.ucsfhealth.org › education › hemoglobin-...",
+      "favicon": "https://serpapi.com/searches/650431172bc7d8d7bee2c7d9/images/252096983ee69b5551f535984402f6f90e857d36dade4eba6334cffdcf8bdeb8.png",
+      "snippet": "Iron is an essential element for blood production, and about 70 percent of your body's iron is in the red blood cells called hemoglobin. Learn how the body ...",
+      "snippet_highlighted_words": [
+        "Iron",
+        "iron"
+      ],
+      "about_this_result": {
+        "keywords": [
+          "iron"
+        ],
+        "languages": [
+          "English"
+        ],
+        "regions": [
+          "United States"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.ucsfhealth.org/education/hemoglobin-and-functions-of-iron&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.ucsfhealth.org%2Feducation%2Fhemoglobin-and-functions-of-iron",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:u_yPgF_oL2EJ:https://www.ucsfhealth.org/education/hemoglobin-and-functions-of-iron&cd=42&hl=en&ct=clnk&gl=us",
+      "source": "UCSF Health"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "iron metal",
+      "link": "https://www.google.com/search?sca_esv=565618840&q=Iron+metal&sa=X&ved=2ahUKEwjjvZ2xs6yBAxUVEFkFHdycCzIQ1QJ6BAhpEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Iron+metal"
+    },
+    {
+      "block_position": 1,
+      "query": "iron vitamin",
+      "link": "https://www.google.com/search?sca_esv=565618840&q=Iron+Vitamin&sa=X&ved=2ahUKEwjjvZ2xs6yBAxUVEFkFHdycCzIQ1QJ6BAhoEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Iron+Vitamin"
+    },
+    {
+      "block_position": 1,
+      "query": "iron for clothes",
+      "link": "https://www.google.com/search?sca_esv=565618840&q=Iron+for+clothes&sa=X&ved=2ahUKEwjjvZ2xs6yBAxUVEFkFHdycCzIQ1QJ6BAhlEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Iron+for+clothes"
+    },
+    {
+      "block_position": 1,
+      "query": "iron tablets",
+      "link": "https://www.google.com/search?sca_esv=565618840&q=Iron+tablets&sa=X&ved=2ahUKEwjjvZ2xs6yBAxUVEFkFHdycCzIQ1QJ6BAhiEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Iron+tablets"
+    },
+    {
+      "block_position": 1,
+      "query": "iron foods",
+      "link": "https://www.google.com/search?sca_esv=565618840&q=Iron+foods&sa=X&ved=2ahUKEwjjvZ2xs6yBAxUVEFkFHdycCzIQ1QJ6BAhhEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Iron+foods"
+    },
+    {
+      "block_position": 1,
+      "query": "iron supplements",
+      "link": "https://www.google.com/search?sca_esv=565618840&q=Iron+supplements&sa=X&ved=2ahUKEwjjvZ2xs6yBAxUVEFkFHdycCzIQ1QJ6BAhgEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Iron+supplements"
+    },
+    {
+      "block_position": 1,
+      "query": "iron uses",
+      "link": "https://www.google.com/search?sca_esv=565618840&q=Iron+uses&sa=X&ved=2ahUKEwjjvZ2xs6yBAxUVEFkFHdycCzIQ1QJ6BAhdEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Iron+uses"
+    },
+    {
+      "block_position": 1,
+      "query": "3 functions of iron",
+      "link": "https://www.google.com/search?sca_esv=565618840&q=3+functions+of+iron&sa=X&ved=2ahUKEwjjvZ2xs6yBAxUVEFkFHdycCzIQ1QJ6BAhZEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=3+functions+of+iron"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=IRON&oq=IRON&start=10&sourceid=chrome&ie=UTF-8",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=IRON&oq=IRON&start=10&sourceid=chrome&ie=UTF-8",
+      "3": "https://www.google.com/search?q=IRON&oq=IRON&start=20&sourceid=chrome&ie=UTF-8",
+      "4": "https://www.google.com/search?q=IRON&oq=IRON&start=30&sourceid=chrome&ie=UTF-8",
+      "5": "https://www.google.com/search?q=IRON&oq=IRON&start=40&sourceid=chrome&ie=UTF-8"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=IRON&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=IRON&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=IRON&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=IRON&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=IRON&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=IRON&start=40"
+    }
+  }
+}

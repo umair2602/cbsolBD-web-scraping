@@ -1,0 +1,657 @@
+{
+  "search_metadata": {
+    "id": "650431175f2203839b46ba2b",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/c9a9b9960b7bbcfa/650431175f2203839b46ba2b.json",
+    "created_at": "2023-09-15 10:25:27 UTC",
+    "processed_at": "2023-09-15 10:25:27 UTC",
+    "google_url": "https://www.google.com/search?q=MAN&oq=MAN&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/c9a9b9960b7bbcfa/650431175f2203839b46ba2b.html",
+    "total_time_taken": 1.17
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "MAN",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "query_displayed": "MAN",
+    "total_results": 25270000000,
+    "time_taken_displayed": 0.39,
+    "menu_items": [
+      {
+        "position": 1,
+        "title": "Images",
+        "link": "https://www.google.com/search?sca_esv=565618840&q=MAN&tbm=isch&source=lnms&sa=X&ved=2ahUKEwiSkuOws6yBAxU5EzQIHerfAlUQ0pQJegQIDRAB",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_images&gl=us&google_domain=google.com&hl=en&q=MAN"
+      },
+      {
+        "position": 2,
+        "title": "Videos",
+        "link": "https://www.google.com/search?sca_esv=565618840&q=MAN&tbm=vid&source=lnms&sa=X&ved=2ahUKEwiSkuOws6yBAxU5EzQIHerfAlUQ0pQJegQICxAB",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_videos&gl=us&google_domain=google.com&hl=en&q=MAN"
+      },
+      {
+        "position": 3,
+        "title": "Hairstyles",
+        "link": "https://www.google.com/search?sca_esv=565618840&q=Hairstyles+man&uds=H4sIAAAAAAAA_-NS4-LySMwsKi6pzEktFmL2dfQzYCziQwgp5Cbm7WBkNALJAACumg9ZLQAAAA&sa=X&ved=2ahUKEwiSkuOws6yBAxU5EzQIHerfAlUQxKsJegQIChAB&ictx=0",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Hairstyles+man"
+      },
+      {
+        "position": 4,
+        "title": "Photo",
+        "link": "https://www.google.com/search?sca_esv=565618840&q=Man+photo&uds=H4sIAAAAAAAA_-OS5GINyMgvyRdi9nX0M2As4vRNzFMoAIkYgUQA8fLcViAAAAA&sa=X&ved=2ahUKEwiSkuOws6yBAxU5EzQIHerfAlUQxKsJegQICRAB&ictx=0",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Man+photo"
+      },
+      {
+        "position": 5,
+        "title": "Truck",
+        "link": "https://www.google.com/search?sca_esv=565618840&q=MAN+Truck&uds=H4sIAAAAAAAA_-OS5GINKSpNzhZi9nX0M2Aq4gRSCmARI5AIAJNYi1cgAAAA&sa=X&ved=2ahUKEwiSkuOws6yBAxU5EzQIHerfAlUQxKsJegQIWBAB&ictx=0",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=MAN+Truck"
+      },
+      {
+        "position": 6,
+        "title": "And men",
+        "link": "https://www.google.com/search?sca_esv=565618840&q=Man+and+men&uds=H4sIAAAAAAAA_-OS5WJ3zEtRyE3NE2L2dfQzYCri9k3MU0iEiBmBxAAclOfUJAAAAA&sa=X&ved=2ahUKEwiSkuOws6yBAxU5EzQIHerfAlUQxKsJegQIVRAB&ictx=0",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Man+and+men"
+      },
+      {
+        "position": 7,
+        "title": "In Hindi",
+        "link": "https://www.google.com/search?sca_esv=565618840&q=Man+in+Hindi&uds=H4sIAAAAAAAA_-OS5-LwzFPwyMxLyRRi9nX0M2Aq4vFNzFPIhAoagQQBli9GlSYAAAA&sa=X&ved=2ahUKEwiSkuOws6yBAxU5EzQIHerfAlUQxKsJegQIVhAB&ictx=0",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Man+in+Hindi"
+      },
+      {
+        "position": 8,
+        "title": "Network",
+        "link": "https://www.google.com/search?sca_esv=565618840&q=MAN+network&uds=H4sIAAAAAAAA_-OS5WL3Sy0pzy_KFmL2dfQzYCriBlIKeRAxI5AYAEGr2U4kAAAA&sa=X&ved=2ahUKEwiSkuOws6yBAxU5EzQIHerfAlUQxKsJegQIVxAB&ictx=0",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=MAN+network"
+      },
+      {
+        "position": 9,
+        "title": "News",
+        "link": "https://www.google.com/search?sca_esv=565618840&q=MAN&tbm=nws&source=lnms&sa=X&ved=2ahUKEwiSkuOws6yBAxU5EzQIHerfAlUQ0pQJegQIVBAB",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=MAN&tbm=nws"
+      }
+    ]
+  },
+  "knowledge_graph": {
+    "title": "Man",
+    "kgmid": "/m/04yx4",
+    "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/m/04yx4&hl=en-US&hl=Man",
+    "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&hl=en-US&kgmid=%2Fm%2F04yx4&q=MAN",
+    "tabs": [
+      {
+        "text": "Hairstyles",
+        "link": "https://www.google.com/search?sca_esv=565618840&q=Hairstyles+man&uds=H4sIAAAAAAAA_-NS4-LySMwsKi6pzEktFmL2dfQzYCziQwgp5Cbm7WBkNALJAACumg9ZLQAAAA&sa=X&ved=2ahUKEwiSkuOws6yBAxU5EzQIHerfAlUQxKsJegQIChAB&ictx=0",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Hairstyles+man"
+      },
+      {
+        "text": "Photo",
+        "link": "https://www.google.com/search?sca_esv=565618840&q=Man+photo&uds=H4sIAAAAAAAA_-OS5GINyMgvyRdi9nX0M2As4vRNzFMoAIkYgUQA8fLcViAAAAA&sa=X&ved=2ahUKEwiSkuOws6yBAxU5EzQIHerfAlUQxKsJegQICRAB&ictx=0",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Man+photo"
+      },
+      {
+        "text": "Truck",
+        "link": "https://www.google.com/search?sca_esv=565618840&q=MAN+Truck&uds=H4sIAAAAAAAA_-OS5GINKSpNzhZi9nX0M2Aq4gRSCmARI5AIAJNYi1cgAAAA&sa=X&ved=2ahUKEwiSkuOws6yBAxU5EzQIHerfAlUQxKsJegQIWBAB&ictx=0",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=MAN+Truck"
+      },
+      {
+        "text": "And men",
+        "link": "https://www.google.com/search?sca_esv=565618840&q=Man+and+men&uds=H4sIAAAAAAAA_-OS5WJ3zEtRyE3NE2L2dfQzYCri9k3MU0iEiBmBxAAclOfUJAAAAA&sa=X&ved=2ahUKEwiSkuOws6yBAxU5EzQIHerfAlUQxKsJegQIVRAB&ictx=0",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Man+and+men"
+      },
+      {
+        "text": "In Hindi",
+        "link": "https://www.google.com/search?sca_esv=565618840&q=Man+in+Hindi&uds=H4sIAAAAAAAA_-OS5-LwzFPwyMxLyRRi9nX0M2Aq4vFNzFPIhAoagQQBli9GlSYAAAA&sa=X&ved=2ahUKEwiSkuOws6yBAxU5EzQIHerfAlUQxKsJegQIVhAB&ictx=0",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Man+in+Hindi"
+      },
+      {
+        "text": "Network",
+        "link": "https://www.google.com/search?sca_esv=565618840&q=MAN+network&uds=H4sIAAAAAAAA_-OS5WL3Sy0pzy_KFmL2dfQzYCriBlIKeRAxI5AYAEGr2U4kAAAA&sa=X&ved=2ahUKEwiSkuOws6yBAxU5EzQIHerfAlUQxKsJegQIVxAB&ictx=0",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=MAN+network"
+      }
+    ],
+    "header_images": [
+      {
+        "image": "https://serpapi.com/searches/650431175f2203839b46ba2b/images/29364bbe12baa637f299a4ef8118967258bc42daa4dd34e568a11ffd881649a4b7689b85b3a19f8e.jpeg",
+        "source": "https://en.wikipedia.org/wiki/Man"
+      },
+      {
+        "image": "https://serpapi.com/searches/650431175f2203839b46ba2b/images/29364bbe12baa637f299a4ef8118967258bc42daa4dd34e526545848f87fac8602a6b756c224ce5a.jpeg",
+        "source": "https://www.theladders.com/career-advice/this-is-how-to-be-a-good-man-according-to-a-few-good-men"
+      },
+      {
+        "image": "https://serpapi.com/searches/650431175f2203839b46ba2b/images/29364bbe12baa637f299a4ef8118967258bc42daa4dd34e58ca98b5b2353c3aec9e84e86ad1cdac8.jpeg",
+        "source": "https://unsplash.com/s/photos/man"
+      },
+      {
+        "image": "https://serpapi.com/searches/650431175f2203839b46ba2b/images/29364bbe12baa637f299a4ef8118967258bc42daa4dd34e55c8a1d210b1291a987e0356361d274fe.jpeg",
+        "source": "https://www.freepik.com/photos/man"
+      },
+      {
+        "image": "https://serpapi.com/searches/650431175f2203839b46ba2b/images/29364bbe12baa637f299a4ef8118967258bc42daa4dd34e59c06072288306e2426fa59b29b403a82.jpeg",
+        "source": "https://www.freepik.com/free-photos-vectors/man-portrait"
+      },
+      {
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ30QAeCFNLkxyN9YMtP_YXJi29Ky4Z3NY-mIxPKA9GRA&s",
+        "source": "https://iheartcraftythings.com/man-drawing.html"
+      },
+      {
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2OvJ8metuWSN0jBwtG3sc0cM6MinzBTnZzW9p9ThQvg&s",
+        "source": "https://unsplash.com/s/photos/men"
+      }
+    ],
+    "description": "A man is an adult male human. Prior to adulthood, a male human is referred to as a boy. Like most other male mammals, a man's genome usually inherits an X chromosome from the mother and a Y chromosome from the father. Sex differentiation of the male fetus is governed by the SRY gene on the Y chromosome.",
+    "source": {
+      "name": "Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Man"
+    },
+    "average_ring_size": "a size 9",
+    "average_ring_size_links": [
+      {
+        "text": "manlybands.com",
+        "link": "https://manlybands.com/a/blog/what-is-the-average-ring-size-for-men"
+      }
+    ]
+  },
+  "inline_images": [
+    {
+      "link": "https://www.google.com/search?q=MAN&sca_esv=565618840&tbm=isch&source=iu&ictx=1&vet=1&fir=q9uxtYqN4v1zHM%252CDOVv0vUvlvQB7M%252C%252Fm%252F04yx4%253BXmMHtrRXqgxGjM%252CRkg9qTQITu4ABM%252C_%253Br-yOCiryPsk03M%252CHQreBDBQV72l4M%252C_%253BNUHTS6g-ujr1DM%252Cf_urGo24LL105M%252C_%253BNH4Y3wkpY25H5M%252CQh0BhkKoASYBFM%252C_%253BuDIpLw_v7NtzKM%252CfkWkz83GcMBmjM%252C_%253B9sbMvuKuTNGVBM%252CiR8xLtmhasoKWM%252C_&usg=AI4_-kRE6aqxieGBGFE4t54bCdot1yMy9Q&sa=X&ved=2ahUKEwiSkuOws6yBAxU5EzQIHerfAlUQ_B16BAhIEAE#imgrc=q9uxtYqN4v1zHM",
+      "source": "https://en.wikipedia.org/wiki/Man",
+      "thumbnail": "https://serpapi.com/searches/650431175f2203839b46ba2b/images/b669e111cacc83ddd8f1db36767fe69e7fbfd74bef0283b6031fddcca9e421cd.jpeg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Outdoors-man-portrait_%28cropped%29.jpg/1200px-Outdoors-man-portrait_%28cropped%29.jpg",
+      "title": "upload.wikimedia.org/wikipedia/commons/thumb/4/48/...",
+      "source_name": "en.wikipedia.org"
+    },
+    {
+      "link": "https://www.google.com/search?q=MAN&sca_esv=565618840&tbm=isch&source=iu&ictx=1&vet=1&fir=q9uxtYqN4v1zHM%252CDOVv0vUvlvQB7M%252C_%253BXmMHtrRXqgxGjM%252CRkg9qTQITu4ABM%252C_%253Br-yOCiryPsk03M%252CHQreBDBQV72l4M%252C_%253BNUHTS6g-ujr1DM%252Cf_urGo24LL105M%252C_%253BNH4Y3wkpY25H5M%252CQh0BhkKoASYBFM%252C_%253BuDIpLw_v7NtzKM%252CfkWkz83GcMBmjM%252C_%253B9sbMvuKuTNGVBM%252CiR8xLtmhasoKWM%252C_&usg=AI4_-kRngwIleDUDVtV6c6uZjGaodyzYfw&sa=X&ved=2ahUKEwiSkuOws6yBAxU5EzQIHerfAlUQ_h16BAhPEAE#imgrc=XmMHtrRXqgxGjM",
+      "source": "https://www.theladders.com/career-advice/this-is-how-to-be-a-good-man-according-to-a-few-good-men",
+      "thumbnail": "https://serpapi.com/searches/650431175f2203839b46ba2b/images/b669e111cacc83dd00e68cedaa7b0b9de6165a13a3f4028ae2051acca326bb31.jpeg",
+      "original": "https://www.theladders.com/wp-content/uploads/man_outside_091318-840x900.jpg",
+      "title": "This is how to be a good man, according to a few good men",
+      "source_name": "Ladders"
+    },
+    {
+      "link": "https://www.google.com/search?q=MAN&sca_esv=565618840&tbm=isch&source=iu&ictx=1&vet=1&fir=q9uxtYqN4v1zHM%252CDOVv0vUvlvQB7M%252C_%253BXmMHtrRXqgxGjM%252CRkg9qTQITu4ABM%252C_%253Br-yOCiryPsk03M%252CHQreBDBQV72l4M%252C_%253BNUHTS6g-ujr1DM%252Cf_urGo24LL105M%252C_%253BNH4Y3wkpY25H5M%252CQh0BhkKoASYBFM%252C_%253BuDIpLw_v7NtzKM%252CfkWkz83GcMBmjM%252C_%253B9sbMvuKuTNGVBM%252CiR8xLtmhasoKWM%252C_&usg=AI4_-kRngwIleDUDVtV6c6uZjGaodyzYfw&sa=X&ved=2ahUKEwiSkuOws6yBAxU5EzQIHerfAlUQ_h16BAhJEAE#imgrc=r-yOCiryPsk03M",
+      "source": "https://unsplash.com/s/photos/man",
+      "thumbnail": "https://serpapi.com/searches/650431175f2203839b46ba2b/images/b669e111cacc83dd98559312bd7af4782d5672ec13e40488c1d51436735cace1.jpeg",
+      "original": "https://images.unsplash.com/photo-1557862921-37829c790f19?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8bWFufGVufDB8fDB8fHww&w=1000&q=80",
+      "title": "100+ Man Images [HD] | Download Free Images on Unsplash",
+      "source_name": "Unsplash"
+    },
+    {
+      "link": "https://www.google.com/search?q=MAN&sca_esv=565618840&tbm=isch&source=iu&ictx=1&vet=1&fir=q9uxtYqN4v1zHM%252CDOVv0vUvlvQB7M%252C_%253BXmMHtrRXqgxGjM%252CRkg9qTQITu4ABM%252C_%253Br-yOCiryPsk03M%252CHQreBDBQV72l4M%252C_%253BNUHTS6g-ujr1DM%252Cf_urGo24LL105M%252C_%253BNH4Y3wkpY25H5M%252CQh0BhkKoASYBFM%252C_%253BuDIpLw_v7NtzKM%252CfkWkz83GcMBmjM%252C_%253B9sbMvuKuTNGVBM%252CiR8xLtmhasoKWM%252C_&usg=AI4_-kRngwIleDUDVtV6c6uZjGaodyzYfw&sa=X&ved=2ahUKEwiSkuOws6yBAxU5EzQIHerfAlUQ_h16BAhMEAE#imgrc=NUHTS6g-ujr1DM",
+      "source": "https://www.freepik.com/photos/man",
+      "thumbnail": "https://serpapi.com/searches/650431175f2203839b46ba2b/images/b669e111cacc83ddce05e84f1109e300e600f77bc3a81b3201cba0a4e6c53b17.jpeg",
+      "original": "https://img.freepik.com/free-photo/waist-up-portrait-handsome-serious-unshaven-male-keeps-hands-together-dressed-dark-blue-shirt-has-talk-with-interlocutor-stands-against-white-wall-self-confident-man-freelancer_273609-16320.jpg?w=2000",
+      "title": "4,418,000+ Man Pictures",
+      "source_name": "Freepik"
+    },
+    {
+      "link": "https://www.google.com/search?q=MAN&sca_esv=565618840&tbm=isch&source=iu&ictx=1&vet=1&fir=q9uxtYqN4v1zHM%252CDOVv0vUvlvQB7M%252C_%253BXmMHtrRXqgxGjM%252CRkg9qTQITu4ABM%252C_%253Br-yOCiryPsk03M%252CHQreBDBQV72l4M%252C_%253BNUHTS6g-ujr1DM%252Cf_urGo24LL105M%252C_%253BNH4Y3wkpY25H5M%252CQh0BhkKoASYBFM%252C_%253BuDIpLw_v7NtzKM%252CfkWkz83GcMBmjM%252C_%253B9sbMvuKuTNGVBM%252CiR8xLtmhasoKWM%252C_&usg=AI4_-kRngwIleDUDVtV6c6uZjGaodyzYfw&sa=X&ved=2ahUKEwiSkuOws6yBAxU5EzQIHerfAlUQ_h16BAhLEAE#imgrc=NH4Y3wkpY25H5M",
+      "source": "https://www.freepik.com/free-photos-vectors/man-portrait",
+      "thumbnail": "https://serpapi.com/searches/650431175f2203839b46ba2b/images/b669e111cacc83dd9dd1d5459bf00e7cb97daee5746d5544e3d342549cccec8d.jpeg",
+      "original": "https://img.freepik.com/free-photo/handsome-confident-smiling-man-with-hands-crossed-chest_176420-18743.jpg?w=2000",
+      "title": "Man Portrait Images - Free Download on Freepik",
+      "source_name": "Freepik"
+    },
+    {
+      "link": "https://www.google.com/search?q=MAN&sca_esv=565618840&tbm=isch&source=iu&ictx=1&vet=1&fir=q9uxtYqN4v1zHM%252CDOVv0vUvlvQB7M%252C_%253BXmMHtrRXqgxGjM%252CRkg9qTQITu4ABM%252C_%253Br-yOCiryPsk03M%252CHQreBDBQV72l4M%252C_%253BNUHTS6g-ujr1DM%252Cf_urGo24LL105M%252C_%253BNH4Y3wkpY25H5M%252CQh0BhkKoASYBFM%252C_%253BuDIpLw_v7NtzKM%252CfkWkz83GcMBmjM%252C_%253B9sbMvuKuTNGVBM%252CiR8xLtmhasoKWM%252C_&usg=AI4_-kRngwIleDUDVtV6c6uZjGaodyzYfw&sa=X&ved=2ahUKEwiSkuOws6yBAxU5EzQIHerfAlUQ_h16BAhKEAE#imgrc=uDIpLw_v7NtzKM",
+      "source": "https://iheartcraftythings.com/man-drawing.html",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ30QAeCFNLkxyN9YMtP_YXJi29Ky4Z3NY-mIxPKA9GRA&s",
+      "original": "https://iheartcraftythings.com/wp-content/uploads/2021/04/Man-DRAWING-%E2%80%93-STEP-10.jpg",
+      "title": "Man Drawing - How To Draw A Man Step By Step",
+      "source_name": "I Heart Crafty Things"
+    },
+    {
+      "link": "https://www.google.com/search?q=MAN&sca_esv=565618840&tbm=isch&source=iu&ictx=1&vet=1&fir=q9uxtYqN4v1zHM%252CDOVv0vUvlvQB7M%252C_%253BXmMHtrRXqgxGjM%252CRkg9qTQITu4ABM%252C_%253Br-yOCiryPsk03M%252CHQreBDBQV72l4M%252C_%253BNUHTS6g-ujr1DM%252Cf_urGo24LL105M%252C_%253BNH4Y3wkpY25H5M%252CQh0BhkKoASYBFM%252C_%253BuDIpLw_v7NtzKM%252CfkWkz83GcMBmjM%252C_%253B9sbMvuKuTNGVBM%252CiR8xLtmhasoKWM%252C_&usg=AI4_-kRngwIleDUDVtV6c6uZjGaodyzYfw&sa=X&ved=2ahUKEwiSkuOws6yBAxU5EzQIHerfAlUQ_h16BAhNEAE#imgrc=9sbMvuKuTNGVBM",
+      "source": "https://unsplash.com/s/photos/men",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2OvJ8metuWSN0jBwtG3sc0cM6MinzBTnZzW9p9ThQvg&s",
+      "original": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8bWVufGVufDB8fDB8fHww&w=1000&q=80",
+      "title": "350+ Men Pictures | Download Free Images & Stock Photos on ...",
+      "source_name": "Unsplash"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "What did man mean?",
+      "snippet": "The term man (from Proto-Germanic *mann- \"person\") and words derived from it can designate any or even all of the human race regardless of their sex or age. In traditional usage, man (without an article) itself refers to the species or to humanity (mankind) as a whole.",
+      "title": "Man (word) - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Man_(word)#:~:text=The%20term%20man%20(from%20Proto,(mankind)%20as%20a%20whole.",
+      "displayed_link": "https://en.wikipedia.org › wiki › Man_(word)",
+      "thumbnail": "https://serpapi.com/searches/650431175f2203839b46ba2b/images/853937bdf69604e205ec545777f66bccdc31080d9382926827b486b0157bba25.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsV2RrRkJOMFEyTTJaV1VXWTJXR2QyY1ZKdE1tNTNRVWs1Y0VweFIxTlVPVEJmUm1wSlRVVk5URXhuV2pGRlZscFhjWEpMVW14NmEyWm9SV2htTmxZM1NqaDNRM2MwRWhkR2VrVkZXbVJMY1V4eWJXMHdVRVZRTm5JdFRIRkJWUm9pUVVwM2F5MDRZMk5GZEdSbE5XeDRUamh4YmtjMFlXOTRaMFJ0TlRVdFZta3pVUSIsImZjdiI6IjMiLCJlaSI6IkZ6RUVaZEtxTHJtbTBQRVA2ci1McUFVIiwicWMiOiJDZ050WVc0UUFIM01oQ1FfIiwicXVlc3Rpb24iOiJXaGF0IGRpZCBtYW4gbWVhbj8iLCJsayI6IkdoRjNhR0YwSUdScFpDQnRZVzRnYldWaGJnIiwiYnMiOiJjLU1TNXhJS3owZ3NVVWpKVEZISVRjeFR5RTFOekxPWGVDYk9KY1VsQ3BKUUwxWklWREFDU3hYbkpPYWwyMHUwV1hLcGNTbUNOV1VXSzVSa3BDcDRCamdxcE9VWGdkbmwtVVZnZy13bGJva0xNQUlBIiwiaWQiOiJmY18xIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsV2RrRkJOMFEyTTJaV1VXWTJXR2QyY1ZKdE1tNTNRVWs1Y0VweFIxTlVPVEJmUm1wSlRVVk5URXhuV2pGRlZscFhjWEpMVW14NmEyWm9SV2htTmxZM1NqaDNRM2MwRWhkR2VrVkZXbVJMY1V4eWJXMHdVRVZRTm5JdFRIRkJWUm9pUVVwM2F5MDRZMk5GZEdSbE5XeDRUamh4YmtjMFlXOTRaMFJ0TlRVdFZta3pVUSIsImZjdiI6IjMiLCJlaSI6IkZ6RUVaZEtxTHJtbTBQRVA2ci1McUFVIiwicWMiOiJDZ050WVc0UUFIM01oQ1FfIiwicXVlc3Rpb24iOiJXaGF0IGRpZCBtYW4gbWVhbj8iLCJsayI6IkdoRjNhR0YwSUdScFpDQnRZVzRnYldWaGJnIiwiYnMiOiJjLU1TNXhJS3owZ3NVVWpKVEZISVRjeFR5RTFOekxPWGVDYk9KY1VsQ3BKUUwxWklWREFDU3hYbkpPYWwyMHUwV1hLcGNTbUNOV1VXSzVSa3BDcDRCamdxcE9VWGdkbmwtVVZnZy13bGJva0xNQUlBIiwiaWQiOiJmY18xIn0%3D"
+    },
+    {
+      "question": "What's a 2 man slang?",
+      "snippet": "“2 Man” is another term for a double date in which the woman wants to bring a friend, and so the man responds by bringing his own friend, as well. “2 Man” might also simply mean a double hookup involving 2 couples. “Two-manning” also sometimes refers to a sexual encounter involving 2 men and 1 woman.",
+      "title": "What Does 2 Man Mean? - [] - Normas Ambientales",
+      "date": "Jul 27, 2023",
+      "link": "https://normasambientales.com.mx/infoblog/answers/what-does-2-man-mean.html#:~:text=%E2%80%9C2%20Man%E2%80%9D%20is%20another%20term,2%20men%20and%201%20woman.",
+      "displayed_link": "https://normasambientales.com.mx › infoblog › answers",
+      "thumbnail": "https://serpapi.com/searches/650431175f2203839b46ba2b/images/853937bdf69604e205ec545777f66bcc8c1090ed3550fcbc6aa2469ec7c11635.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsV2RrRkJOMFEyTTJaV1VXWTJXR2QyY1ZKdE1tNTNRVWs1Y0VweFIxTlVPVEJmUm1wSlRVVk5URXhuV2pGRlZscFhjWEpMVW14NmEyWm9SV2htTmxZM1NqaDNRM2MwRWhkR2VrVkZXbVJMY1V4eWJXMHdVRVZRTm5JdFRIRkJWUm9pUVVwM2F5MDRZMk5GZEdSbE5XeDRUamh4YmtjMFlXOTRaMFJ0TlRVdFZta3pVUSIsImZjdiI6IjMiLCJlaSI6IkZ6RUVaZEtxTHJtbTBQRVA2ci1McUFVIiwicWMiOiJDZ050WVc0UUFIM01oQ1FfIiwicXVlc3Rpb24iOiJXaGF0J3MgYSAyIG1hbiBzbGFuZz8iLCJsayI6IkdoUjNhR0YwSjNNZ1lTQXlJRzFoYmlCemJHRnVadyIsImJzIjoiYy1NUzV4SUt6MGdzVVVqSlRGSElUY3hUeUUxTnpMT1hlQ2JPSmNVbENwSlFMMVpJVkRBQ1N4WG5KT2FsMjB1MFdYS3BjU21DTldVV0s1UmtwQ3A0QmpncXBPVVhnZG5sLVVWZ2ctd2xib2tMTUFJQSIsImlkIjoiZmNfMSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsV2RrRkJOMFEyTTJaV1VXWTJXR2QyY1ZKdE1tNTNRVWs1Y0VweFIxTlVPVEJmUm1wSlRVVk5URXhuV2pGRlZscFhjWEpMVW14NmEyWm9SV2htTmxZM1NqaDNRM2MwRWhkR2VrVkZXbVJMY1V4eWJXMHdVRVZRTm5JdFRIRkJWUm9pUVVwM2F5MDRZMk5GZEdSbE5XeDRUamh4YmtjMFlXOTRaMFJ0TlRVdFZta3pVUSIsImZjdiI6IjMiLCJlaSI6IkZ6RUVaZEtxTHJtbTBQRVA2ci1McUFVIiwicWMiOiJDZ050WVc0UUFIM01oQ1FfIiwicXVlc3Rpb24iOiJXaGF0J3MgYSAyIG1hbiBzbGFuZz8iLCJsayI6IkdoUjNhR0YwSjNNZ1lTQXlJRzFoYmlCemJHRnVadyIsImJzIjoiYy1NUzV4SUt6MGdzVVVqSlRGSElUY3hUeUUxTnpMT1hlQ2JPSmNVbENwSlFMMVpJVkRBQ1N4WG5KT2FsMjB1MFdYS3BjU21DTldVV0s1UmtwQ3A0QmpncXBPVVhnZG5sLVVWZ2ctd2xib2tMTUFJQSIsImlkIjoiZmNfMSJ9"
+    },
+    {
+      "question": "What is the IPA for the word man?",
+      "snippet": "Modern IPA: mán. Traditional IPA: mæn. 1 syllable: \"MAN\"",
+      "title": "273829 pronunciations of Man in English - YouGlish",
+      "link": "https://youglish.com/pronounce/man/english#:~:text=Modern%20IPA%3A%20m%C3%A1n,1%20syllable%3A%20%22MAN%22",
+      "displayed_link": "https://youglish.com › pronounce › man › english",
+      "thumbnail": "https://serpapi.com/searches/650431175f2203839b46ba2b/images/853937bdf69604e205ec545777f66bcc16239c5d09df4a42500cf08718e77247.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsV2RrRkJOMFEyTTJaV1VXWTJXR2QyY1ZKdE1tNTNRVWs1Y0VweFIxTlVPVEJmUm1wSlRVVk5URXhuV2pGRlZscFhjWEpMVW14NmEyWm9SV2htTmxZM1NqaDNRM2MwRWhkR2VrVkZXbVJMY1V4eWJXMHdVRVZRTm5JdFRIRkJWUm9pUVVwM2F5MDRZMk5GZEdSbE5XeDRUamh4YmtjMFlXOTRaMFJ0TlRVdFZta3pVUSIsImZjdiI6IjMiLCJlaSI6IkZ6RUVaZEtxTHJtbTBQRVA2ci1McUFVIiwicWMiOiJDZ050WVc0UUFIM01oQ1FfIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBJUEEgZm9yIHRoZSB3b3JkIG1hbj8iLCJsayI6IkdoUnBjR0VnWm05eUlIUm9aU0IzYjNKa0lHMWhiZyIsImJzIjoiYy1NUzV4SUt6MGdzVVVqSlRGSElUY3hUeUUxTnpMT1hlQ2JPSmNVbENwSlFMMVpJVkRBQ1N4WG5KT2FsMjB1MFdYS3BjU21DTldVV0s1UmtwQ3A0QmpncXBPVVhnZG5sLVVWZ2ctd2xib2tMTUFJQSIsImlkIjoiZmNfMSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsV2RrRkJOMFEyTTJaV1VXWTJXR2QyY1ZKdE1tNTNRVWs1Y0VweFIxTlVPVEJmUm1wSlRVVk5URXhuV2pGRlZscFhjWEpMVW14NmEyWm9SV2htTmxZM1NqaDNRM2MwRWhkR2VrVkZXbVJMY1V4eWJXMHdVRVZRTm5JdFRIRkJWUm9pUVVwM2F5MDRZMk5GZEdSbE5XeDRUamh4YmtjMFlXOTRaMFJ0TlRVdFZta3pVUSIsImZjdiI6IjMiLCJlaSI6IkZ6RUVaZEtxTHJtbTBQRVA2ci1McUFVIiwicWMiOiJDZ050WVc0UUFIM01oQ1FfIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBJUEEgZm9yIHRoZSB3b3JkIG1hbj8iLCJsayI6IkdoUnBjR0VnWm05eUlIUm9aU0IzYjNKa0lHMWhiZyIsImJzIjoiYy1NUzV4SUt6MGdzVVVqSlRGSElUY3hUeUUxTnpMT1hlQ2JPSmNVbENwSlFMMVpJVkRBQ1N4WG5KT2FsMjB1MFdYS3BjU21DTldVV0s1UmtwQ3A0QmpncXBPVVhnZG5sLVVWZ2ctd2xib2tMTUFJQSIsImlkIjoiZmNfMSJ9"
+    }
+  ],
+  "answer_box": {
+    "type": "organic_result",
+    "title": "Man Definition & Meaning - Merriam-Webster",
+    "link": "https://www.merriam-webster.com/dictionary/man#:~:text=a(1),residence%2C%20membership%2C%20or%20occupation)",
+    "displayed_link": "https://www.merriam-webster.com › dictionary › man",
+    "date": "3 days ago",
+    "snippet": "a(1) : an individual human. especially : an adult male human. (2) : a man belonging to a particular category (as by birth, residence, membership, or occupation)",
+    "snippet_highlighted_words": [
+      "an individual human"
+    ],
+    "favicon": "https://serpapi.com/searches/650431175f2203839b46ba2b/images/aa9e79b09453f65f965b7f51c32a58820109c8139ba8c0a5.png",
+    "source": "Merriam-Webster",
+    "about_this_result": {
+      "keywords": [
+        "man"
+      ],
+      "languages": [
+        "English"
+      ],
+      "regions": [
+        "United States"
+      ]
+    },
+    "about_page_link": "https://www.google.comhttps://myaccount.google.com/yourdata/search"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Man Definition & Meaning",
+      "link": "https://www.dictionary.com/browse/man",
+      "displayed_link": "https://www.dictionary.com › browse › man",
+      "favicon": "https://serpapi.com/searches/650431175f2203839b46ba2b/images/420acf4767492e64b104ced8b696eb093ad16c31598c1552d0d02ac7f8cacec3.png",
+      "snippet": "man · a person or group asserting authority or power over another, especially in a manner experienced as being oppressive, demeaning, or threatening, as the ...",
+      "snippet_highlighted_words": [
+        "man"
+      ],
+      "about_this_result": {
+        "keywords": [
+          "man"
+        ],
+        "languages": [
+          "English"
+        ],
+        "regions": [
+          "United States"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.dictionary.com/browse/man&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.dictionary.com%2Fbrowse%2Fman",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:jzoYroOlH18J:https://www.dictionary.com/browse/man&cd=18&hl=en&ct=clnk&gl=us",
+      "source": "Dictionary.com"
+    },
+    {
+      "position": 2,
+      "title": "Man",
+      "link": "https://en.wikipedia.org/wiki/Man",
+      "displayed_link": "https://en.wikipedia.org › wiki › Man",
+      "favicon": "https://serpapi.com/searches/650431175f2203839b46ba2b/images/420acf4767492e64b104ced8b696eb09e9597bf379f98e97669b9eebb1d73875.png",
+      "snippet": "A man is an adult male human. Prior to adulthood, a male human is referred to as a boy A man with a beard, wearing a checkered shirt, with his arms crossed.",
+      "snippet_highlighted_words": [
+        "man",
+        "man"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Biology",
+            "link": "https://en.wikipedia.org/wiki/Man#Biology"
+          },
+          {
+            "title": "Sexuality and gender",
+            "link": "https://en.wikipedia.org/wiki/Man#Sexuality_and_gender"
+          },
+          {
+            "title": "Social role",
+            "link": "https://en.wikipedia.org/wiki/Man#Social_role"
+          },
+          {
+            "title": "Family",
+            "link": "https://en.wikipedia.org/wiki/Man#Family"
+          }
+        ]
+      },
+      "about_this_result": {
+        "keywords": [
+          "man"
+        ],
+        "languages": [
+          "English"
+        ],
+        "regions": [
+          "United States"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://en.wikipedia.org/wiki/Man&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FMan",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:DOVv0vUvlvQJ:https://en.wikipedia.org/wiki/Man&cd=19&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?sca_esv=565618840&q=related:https://en.wikipedia.org/wiki/Man+MAN",
+      "source": "Wikipedia"
+    },
+    {
+      "position": 3,
+      "title": "MAN | definition in the Cambridge English Dictionary",
+      "link": "https://dictionary.cambridge.org/us/dictionary/english/man",
+      "displayed_link": "https://dictionary.cambridge.org › dictionary › man",
+      "favicon": "https://serpapi.com/searches/650431175f2203839b46ba2b/images/420acf4767492e64b104ced8b696eb097366537f86670fa3a9cb96f5a8a7a77a.jpeg",
+      "snippet": "man meaning: 1. an adult male human being: 2. an adult who lives and identifies as male though they may have…. Learn more.",
+      "snippet_highlighted_words": [
+        "man"
+      ],
+      "about_this_result": {
+        "keywords": [
+          "man"
+        ],
+        "languages": [
+          "English"
+        ],
+        "regions": [
+          "United States"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://dictionary.cambridge.org/us/dictionary/english/man&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fdictionary.cambridge.org%2Fus%2Fdictionary%2Fenglish%2Fman",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:yZAXltudYzkJ:https://dictionary.cambridge.org/us/dictionary/english/man&cd=20&hl=en&ct=clnk&gl=us",
+      "source": "Cambridge Dictionary"
+    },
+    {
+      "position": 4,
+      "title": "Taylor Swift - The Man (Official Video) - YouTube",
+      "link": "https://www.youtube.com/watch?v=AqAJLh9wuZ0",
+      "displayed_link": "https://www.youtube.com › watch",
+      "thumbnail": "https://serpapi.com/searches/650431175f2203839b46ba2b/images/420acf4767492e64b104ced8b696eb09c4136a83b302c161182fe856bda7ff2f.jpeg",
+      "favicon": "https://serpapi.com/searches/650431175f2203839b46ba2b/images/420acf4767492e64b104ced8b696eb0997905c0f7c8357d65ecf58d3d399c7e4.png",
+      "snippet": "Official music video by Taylor Swift performing “The Man” – off her album 'Lover.' Stream/Download the album here: ...",
+      "duration": "4:15",
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "YouTube",
+            "TaylorSwiftVEVO",
+            "Feb 27, 2020"
+          ],
+          "detected_extensions": {
+            "feb": 27
+          }
+        }
+      },
+      "about_this_result": {
+        "keywords": [
+          "man"
+        ],
+        "languages": [
+          "English"
+        ],
+        "regions": [
+          "United States"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.youtube.com/watch?v%3DAqAJLh9wuZ0&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DAqAJLh9wuZ0",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSb6tyXJksiLBhjfvvPXrZ4Z4dmFEB0btg-eQ",
+      "source": "YouTube"
+    },
+    {
+      "position": 5,
+      "title": "man - Wiktionary, the free dictionary",
+      "link": "https://en.wiktionary.org/wiki/man",
+      "displayed_link": "https://en.wiktionary.org › wiki › man",
+      "favicon": "https://serpapi.com/searches/650431175f2203839b46ba2b/images/420acf4767492e64b104ced8b696eb094cf6eec88f81cb39b0cd4ccfdb001a4d.png",
+      "snippet": "A person, usually male, who has duties or skills associated with a specified thing. (Used as the last element of a compound.) I wanted to be a guitar man on a ...",
+      "snippet_highlighted_words": [
+        "man"
+      ],
+      "about_this_result": {
+        "keywords": [
+          "man"
+        ],
+        "languages": [
+          "English"
+        ],
+        "regions": [
+          "United States"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://en.wiktionary.org/wiki/man&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fen.wiktionary.org%2Fwiki%2Fman",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:Ac0vJXZRFiAJ:https://en.wiktionary.org/wiki/man&cd=22&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?sca_esv=565618840&q=related:https://en.wiktionary.org/wiki/man+MAN",
+      "source": "Wikipedia"
+    },
+    {
+      "position": 6,
+      "title": "Man Definition & Meaning | Britannica Dictionary",
+      "link": "https://www.britannica.com/dictionary/man",
+      "displayed_link": "https://www.britannica.com › dictionary › man",
+      "favicon": "https://serpapi.com/searches/650431175f2203839b46ba2b/images/420acf4767492e64b104ced8b696eb09623cd029665d72e0342a9e75ff0c25cf.png",
+      "snippet": "MAN meaning: 1 : an adult male human being; 2 : a man or boy who shows the qualities (such as strength and courage) that men are traditionally supposed to ...",
+      "snippet_highlighted_words": [
+        "MAN",
+        "man",
+        "men"
+      ],
+      "about_this_result": {
+        "keywords": [
+          "man"
+        ],
+        "related_keywords": [
+          "men"
+        ],
+        "languages": [
+          "English"
+        ],
+        "regions": [
+          "United States"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.britannica.com/dictionary/man&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.britannica.com%2Fdictionary%2Fman",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:KFidohcmMyUJ:https://www.britannica.com/dictionary/man&cd=23&hl=en&ct=clnk&gl=us",
+      "source": "Britannica"
+    },
+    {
+      "position": 7,
+      "title": "MAN engines and components in excellent quality",
+      "link": "https://www.man.eu/engines/en/homepage.html",
+      "displayed_link": "https://www.man.eu › engines",
+      "favicon": "https://serpapi.com/searches/650431175f2203839b46ba2b/images/420acf4767492e64b104ced8b696eb09451320eb74f39771ac573a78b74db18f.png",
+      "snippet": "MAN Engines offers state-of-the-art technologies and sophisticated components as drives for agricultural machinery, rail-, water- or special-purpose ...",
+      "snippet_highlighted_words": [
+        "MAN"
+      ],
+      "about_this_result": {
+        "keywords": [
+          "man"
+        ],
+        "languages": [
+          "English"
+        ],
+        "regions": [
+          "United States"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.man.eu/engines/en/homepage.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.man.eu%2Fengines%2Fen%2Fhomepage.html",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:-AJSV_I-fnMJ:https://www.man.eu/engines/en/homepage.html&cd=24&hl=en&ct=clnk&gl=us",
+      "source": "MAN"
+    },
+    {
+      "position": 8,
+      "title": "Man - definition of man by The Free Dictionary",
+      "link": "https://www.thefreedictionary.com/man",
+      "displayed_link": "https://www.thefreedictionary.com › man",
+      "favicon": "https://serpapi.com/searches/650431175f2203839b46ba2b/images/420acf4767492e64b104ced8b696eb09c00be43705d10ca06e9c6cf20fa9582c.jpeg",
+      "snippet": "A man is an adult male human being. The plural of man is men. Larry was a handsome man of about 50. Two men got on the bus. Man is ...",
+      "snippet_highlighted_words": [
+        "man",
+        "man",
+        "men",
+        "man",
+        "men",
+        "Man"
+      ],
+      "about_this_result": {
+        "keywords": [
+          "man"
+        ],
+        "related_keywords": [
+          "men"
+        ],
+        "languages": [
+          "English"
+        ],
+        "regions": [
+          "United States"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.thefreedictionary.com/man&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.thefreedictionary.com%2Fman",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:DYK_H6_Mh_wJ:https://www.thefreedictionary.com/man&cd=25&hl=en&ct=clnk&gl=us",
+      "source": "The Free Dictionary"
+    },
+    {
+      "position": 9,
+      "title": "Man definition in American English",
+      "link": "https://www.collinsdictionary.com/us/dictionary/english/man",
+      "displayed_link": "https://www.collinsdictionary.com › dictionary › man",
+      "favicon": "https://serpapi.com/searches/650431175f2203839b46ba2b/images/420acf4767492e64b104ced8b696eb098fbb6ab0c285f7a4c477467e2cd91e7b.png",
+      "snippet": "1. countable noun. A man is an adult male human being. · 2. variable noun. Man and men are sometimes used to refer to all human beings, including both males and ...",
+      "snippet_highlighted_words": [
+        "man",
+        "Man",
+        "men"
+      ],
+      "about_this_result": {
+        "keywords": [
+          "man"
+        ],
+        "related_keywords": [
+          "men"
+        ],
+        "languages": [
+          "English"
+        ],
+        "regions": [
+          "United States"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.collinsdictionary.com/us/dictionary/english/man&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.collinsdictionary.com%2Fus%2Fdictionary%2Fenglish%2Fman",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:z3l_Z8chRzcJ:https://www.collinsdictionary.com/us/dictionary/english/man&cd=26&hl=en&ct=clnk&gl=us",
+      "source": "Collins Dictionary"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Man photo",
+      "items": [
+        {
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEvaPSzgpAKEJT7tfi-E9smFGbkAfXAR87li95eVYrBIQrJCZgeQk&s=0",
+          "link": "https://www.google.com/search?sca_esv=565618840&q=Man+photo&tbm=isch&source=iu&ictx=1&vet=1#imgrc=t8_67KNkaJCH1M",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_images&gl=us&google_domain=google.com&hl=en&q=Man+photo"
+        },
+        {
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzq_G-qHnanvLV18Zk2opLUE98CjuFv-IkKanpPUwppF1384uetTw&s=0",
+          "link": "https://www.google.com/search?sca_esv=565618840&q=Man+photo&tbm=isch&source=iu&ictx=1&vet=1#imgrc=vEOCdwOjrA2QmM",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_images&gl=us&google_domain=google.com&hl=en&q=Man+photo"
+        },
+        {
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdfvv-Vup-r5bkSlZGrFlMVWK7F3Z4AiQ8f6bkmXnG4JX0DBJKUuU&s=0",
+          "link": "https://www.google.com/search?sca_esv=565618840&q=Man+photo&tbm=isch&source=iu&ictx=1&vet=1#imgrc=q9uxtYqN4v1zHM",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_images&gl=us&google_domain=google.com&hl=en&q=Man+photo"
+        },
+        {
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtFIekz3aauhoh3nGw2wuURkeMI9Cx_ok3fg2mPiRVRDIXg3BM2B_cvg&s=0",
+          "link": "https://www.google.com/search?sca_esv=565618840&q=Man+photo&tbm=isch&source=iu&ictx=1&vet=1#imgrc=NH4Y3wkpY25H5M",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_images&gl=us&google_domain=google.com&hl=en&q=Man+photo"
+        }
+      ],
+      "link": "https://www.google.com/search?sca_esv=565618840&q=Man+photo&tbm=isch&source=iu&ictx=1&vet=1#imgrc=t8_67KNkaJCH1M",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_images&gl=us&google_domain=google.com&hl=en&q=Man+photo"
+    },
+    {
+      "block_position": 1,
+      "query": "man and men",
+      "link": "https://www.google.com/search?sca_esv=565618840&q=Man+and+men&sa=X&ved=2ahUKEwiSkuOws6yBAxU5EzQIHerfAlUQ1QJ6BAg9EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Man+and+men"
+    },
+    {
+      "block_position": 1,
+      "query": "man network",
+      "link": "https://www.google.com/search?sca_esv=565618840&q=MAN+network&sa=X&ved=2ahUKEwiSkuOws6yBAxU5EzQIHerfAlUQ1QJ6BAg5EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=MAN+network"
+    },
+    {
+      "block_position": 1,
+      "query": "man truck",
+      "link": "https://www.google.com/search?sca_esv=565618840&q=MAN+Truck&sa=X&ved=2ahUKEwiSkuOws6yBAxU5EzQIHerfAlUQ1QJ6BAg7EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=MAN+Truck"
+    },
+    {
+      "block_position": 1,
+      "query": "man in hindi",
+      "link": "https://www.google.com/search?sca_esv=565618840&q=Man+in+Hindi&sa=X&ved=2ahUKEwiSkuOws6yBAxU5EzQIHerfAlUQ1QJ6BAg4EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Man+in+Hindi"
+    },
+    {
+      "block_position": 1,
+      "query": "definition of a real man",
+      "link": "https://www.google.com/search?sca_esv=565618840&q=Definition+of+a+real+man&sa=X&ved=2ahUKEwiSkuOws6yBAxU5EzQIHerfAlUQ1QJ6BAg8EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Definition+of+a+real+man"
+    },
+    {
+      "block_position": 1,
+      "query": "man in computer",
+      "link": "https://www.google.com/search?sca_esv=565618840&q=MAN+in+Computer&sa=X&ved=2ahUKEwiSkuOws6yBAxU5EzQIHerfAlUQ1QJ6BAg6EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=MAN+in+Computer"
+    },
+    {
+      "block_position": 1,
+      "query": "man definition oxford dictionary",
+      "link": "https://www.google.com/search?sca_esv=565618840&q=Man+definition+Oxford+Dictionary&sa=X&ved=2ahUKEwiSkuOws6yBAxU5EzQIHerfAlUQ1QJ6BAg-EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Man+definition+Oxford+Dictionary"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=MAN&oq=MAN&start=10&sourceid=chrome&ie=UTF-8",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=MAN&oq=MAN&start=10&sourceid=chrome&ie=UTF-8",
+      "3": "https://www.google.com/search?q=MAN&oq=MAN&start=20&sourceid=chrome&ie=UTF-8",
+      "4": "https://www.google.com/search?q=MAN&oq=MAN&start=30&sourceid=chrome&ie=UTF-8",
+      "5": "https://www.google.com/search?q=MAN&oq=MAN&start=40&sourceid=chrome&ie=UTF-8"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=MAN&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=MAN&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=MAN&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=MAN&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=MAN&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=MAN&start=40"
+    }
+  }
+}
