@@ -15,8 +15,10 @@ if (!fs.existsSync(OUTPUT_FOLDER)) {
 
 async function fetchSerpData(query) {
   try {
+    console.log('Making request to SerpApi:', `https://serpapi.com/search?api_key=${API_KEY}&q=${encodeURIComponent(query)}`);
     const response = await axios.get(`https://serpapi.com/search?api_key=${API_KEY}&q=${encodeURIComponent(query)}`);
-
+    console.log('Response:', response.data);
+    
     // Check if the request was successful
     if (response.status === 200) {
       return response.data.organic_results; // Return the SERP data
@@ -49,8 +51,18 @@ async function processCsvField() {
           fs.mkdirSync(queryFolder);
         }
 
-        // Open each link with Playwright and extract links from the pages
-        await extractLinksFromPages(serpData, queryFolder);
+        // Extract emails from the links
+        const extractedEmails = await extractEmailsFromLinks(serpData, queryFolder);
+
+        // Check if first_name, last_name, or both are present in the email and store them
+        const fullName = `${firstName} ${lastName}`;
+        const filteredEmails = filterEmailsByNames(extractedEmails, firstName, lastName);
+
+        // Save the filtered emails in a CSV file
+        const filteredEmailCSVFile = path.join(queryFolder, 'filtered_emails.csv');
+        fs.writeFileSync(filteredEmailCSVFile, filteredEmails.join('\n'));
+
+        console.log(`Filtered emails for ${fullName} saved in ${filteredEmailCSVFile}`);
       }
     })
     .on('end', () => {
@@ -58,21 +70,29 @@ async function processCsvField() {
     });
 }
 
-async function extractLinksFromPages(serpData, queryFolder) {
+async function extractEmailsFromLinks(serpData) {
   const browser = await chromium.launch();
   const context = await browser.newContext();
+
+  const emailAddresses = [];
 
   for (const result of serpData) {
     try {
       const page = await context.newPage();
       await page.goto(result.link);
 
-      const allLinks = await page.$$eval('a', (links) => links.map((link) => link.href));
+      // Define a regular expression to match valid email addresses
+      const emailRegex = /([a-zA-Z0-9._-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,})/g;
 
-      const pageLinksCSVFile = path.join(queryFolder, 'page_links.csv');
-      fs.appendFileSync(pageLinksCSVFile, allLinks.join('\n') + '\n');
+      // Extract emails from the page content
+      const pageContent = await page.content();
+      const extractedEmails = pageContent.match(emailRegex);
 
-      console.log(`Links from ${result.link} page appended to ${pageLinksCSVFile}`);
+      if (extractedEmails) {
+        extractedEmails.forEach((email) => {
+          emailAddresses.push(email);
+        });
+      }
 
       await page.close();
     } catch (error) {
@@ -80,8 +100,26 @@ async function extractLinksFromPages(serpData, queryFolder) {
     }
   }
 
+  // Remove duplicate email addresses
+  const uniqueEmailAddresses = [...new Set(emailAddresses)];
+
   await context.close();
   await browser.close();
+
+  return uniqueEmailAddresses;
+}
+
+function filterEmailsByNames(emails, firstName, lastName) {
+  const fullName = `${firstName} ${lastName}`;
+  const filteredEmails = [];
+
+  for (const email of emails) {
+    if (email.includes(firstName) || email.includes(lastName) || email.includes(fullName) ) {
+      filteredEmails.push(email);
+    }
+  }
+
+  return filteredEmails;
 }
 
 // Example usage

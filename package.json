@@ -3,6 +3,7 @@
     "axios": "^1.5.0",
     "csv-parser": "^3.0.0",
     "email-validator": "^2.0.4",
+    "exceljs": "^4.3.0",
     "google-search-results-nodejs": "^2.1.0",
     "playwright": "^1.38.0"
   },
