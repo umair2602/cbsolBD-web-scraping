@@ -9,9 +9,19 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@mui/icons-material": "^5.14.9",
+    "@mui/material": "^5.14.10",
+    "axios": "^1.5.0",
+    "csv-parser": "^3.0.0",
+    "fs": "^0.0.1-security",
+    "next": "latest",
+    "path": "^0.12.7",
+    "playwright": "^1.38.1",
     "react": "latest",
     "react-dom": "latest",
-    "next": "latest"
+    "react-router-dom": "^6.16.0"
   },
   "devDependencies": {
     "eslint": "latest",
