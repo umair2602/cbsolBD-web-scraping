@@ -178,47 +178,40 @@ async function processCsv(csvBuffer) {
       }
     }
 
-  async  function saveEmailsToExcel(verificationResults, extractedEmails, filePath, firstName, lastName, companyDomain, fullName,verifierEmails) {
-    console.log("---------------------------------------------------------------------------------",
-      verificationResults, extractedEmails, filePath, firstName, lastName, companyDomain, fullName,
-      "-----------------------------------------------------------------------------------------------"
-    );
+    async function saveEmailsToExcel(verificationResults, extractedEmails, filePath, firstName, lastName, companyDomain, fullName, verifierEmails) {
       const workbook = new ExcelJS.Workbook();
       const worksheet = workbook.addWorksheet('Extracted Emails');
     
-      // Define columns for verifier findings
+      // Define columns for the worksheet
       worksheet.columns = [
-        { header: 'Email', key: 'email', width: 40 },
+        { header: 'Extracted-Email', key: 'extractedEmail', width: 40 },
         { header: 'Verifier', key: 'verifier', width: 40 },
-     
       ];
     
       // Add verifier findings to the worksheet
-      verificationResults.forEach((result) => {
-        worksheet.addRow(result);
-      });
+      // verificationResults.forEach((result) => {
+      //   worksheet.addRow(result);
+      // });
     
-      // Add a separator row between verifier findings and extracted emails
-      worksheet.addRow({});
-    
-      // Define columns for extracted emails
-      worksheet.columns = [
-        { header: 'Extracted-Email', key: 'email', width: 40 },
-        { header: 'Verifier', key: 'verifier', width: 40 },
-      ];
+      // // Add a separator row between verifier findings and extracted emails
+      // worksheet.addRow({});
     
       // Add extracted emails to the worksheet
-      extractedEmails.forEach((email, verifier) => {
-        worksheet.addRow({ email, verifier });
+      extractedEmails.forEach((email) => {
+        worksheet.addRow({ extractedEmail: email, verifier: '' }); // Empty verifier in the 'verifier' column
       });
-        // Add verifierEmails to the second column
-  verifierEmails.forEach((email) => {
-    worksheet.addRow({ email: '', verifier: email }); // Empty email in the 'email' column
-  });
+    
+      // Add verifierEmails to the worksheet
+      verifierEmails.forEach((verifier) => {
+        worksheet.addRow({ extractedEmail: '', verifier });
+        console.log("verifier", verifier);
+      });
+    
       await workbook.xlsx.writeFile(filePath);
-      
+    
       return await filePath;
     }
+    
     
 
     async function processCsvField(csvBuffer) {
