@@ -9,6 +9,7 @@ const { chromium } = require('playwright');
 const ExcelJS = require('exceljs'); // Import ExcelJS for creating Excel files
 const validator = require('email-validator'); // Import validator for email validation
 const cors = require('cors')
+const EmailHunter = require('hunter.io')
 
 const app = express();
 app.use(cors());
@@ -24,11 +25,12 @@ const upload = multer({ storage });
 app.use(express.json());
 
 const API_KEY = '0938863b743881ccd61ed300e9ca3dc9d774bdeb4686aa908faf7581bb5d9050'; // Replace with your SerpApi API key
-const EMAIL_VERIFIER_API_KEY ='at_Lzsg1IJZ6NBVmqT0ICBo7a2gq01vA' // Replace with your Email Verifier API key
+const hunter = new EmailHunter('2af0fb12b1c817134a8660dc41821a94bf8c5db4');// Replace with your Hunter.io API key
+// const EMAIL_VERIFIER_API_KEY ='at_Lzsg1IJZ6NBVmqT0ICBo7a2gq01vA' // Replace with your Email Verifier API key
 const OUTPUT_FOLDER = 'output'; // Folder to save the results
 
 // Create an instance of the email verifier
-const verifier = new Verifier(EMAIL_VERIFIER_API_KEY);
+// const verifier = new Verifier(EMAIL_VERIFIER_API_KEY);
 
 async function processCsv(csvBuffer) {
   try {
@@ -126,33 +128,27 @@ async function processCsv(csvBuffer) {
       const validEmails = [];
     
       for (const email of emails) {
-        const verificationResult = await verifyEmail(email);
-        if (verificationResult.isValid) {
+        const Result = await verifyEmail(email);
+        if (Result.data.status==='valid') {
           validEmails.push(email);
+        }else{
+          console.log("Verification Results", Result.data)
         }
       }
     
       return validEmails;
+      
     }
     
-
-    async function verifyEmail(email) {
+    function verifyEmail(email) {
       return new Promise((resolve, reject) => {
-        verifier.verify(email, { hardRefresh: true }, (err, data) => {
+        hunter.emailVerifier(email, (err, result) => {
           if (err) {
             console.error(`Error verifying email ${email}: ${err.message}`);
+
             reject(err);
           } else {
-            const mxRecords = data.mxRecords || [];
-            const verificationResult = {
-              email,
-              isValid: data.formatCheck  === 'true' && mxRecords.length !== 0,
-              formatCheck: data.formatCheck === 'true',
-              // smtpCheck: data.smtpCheck === 'true',
-              // dnsCheck: data.dnsCheck === 'true',
-              mxRecords: mxRecords.length !== 0,
-            };
-            resolve(verificationResult);
+            resolve(result);
           }
         });
       });
@@ -180,70 +176,7 @@ async function processCsv(csvBuffer) {
 
     
 
-//     async function processCsvField(csvBuffer) {
-//         console.log(csvBuffer, "here i am")
-//         let excelFilePath='';
-//         let extractedEmails = [];
-//         let fullName ='';
-//         let filteredEmails='';
-//         let extractedEmailsVerification = '';
-//         let firstName = '';
-//         let lastName = '';
-//         let companyName = '';
-//         let companySite = '';
-//         let companyDomain = extractDomain(companySite);
-//         let fDomain;
-//         let lDomain;
-//         let flDomain;
-//         let verifierEmails = [];
-//       try {
-//         const csvData = csvBuffer.toString();//<-
-//         const rows = csvData.split('\n');
-// console.log("rows ",rows)
-//         for (const row of rows) {
-
-//           const columns = row.split(',');
-// console.log("columns ",columns)
-//           if (columns.length >= 3) {
-//             firstName = columns[0].trim();
-//             lastName = columns[1].trim();
-//             companyName = columns[2].trim();
-//             companySite = columns[3].trim();
-//             companyDomain = extractDomain(companySite);
-//             fDomain = `${firstName}@${companyDomain}`
-//             lDomain = `${lastName}@${companyDomain}`
-//             flDomain = `${firstName}.${lastName}@${companyDomain}`
-//             verifierEmails.push(fDomain, lDomain, flDomain)
-            
-          
-
-//             // const query = `${firstName} ${lastName} ${companyName}`;
-//             // const serpData = await fetchSerpData(query);
-            
-//             // const queryFolder = path.join(OUTPUT_FOLDER, query);
-//              excelFilePath= path.join(OUTPUT_FOLDER, 'filtered_emails.xlsx');
-//             //  console.log("serpdata", serpData)
-//             // if (serpData) {
-//             //   extractedEmails = await extractEmailsFromLinks(serpData);
-//             //   console.log("extracted emails", extractedEmails);
-//             //   fullName = `${firstName} ${lastName}`;
-//             //   filteredEmails = filterEmailsByNames(extractedEmails, firstName, lastName, companyName);
-//             //   console.log(" filteredEmails ",filteredEmails)
-//             //   // extractedEmailsVerification = await verifyEmails(filteredEmails);
-          
-              
-//             //   console.log(`Filtered and verified emails for ${fullName} saved in ${excelFilePath}`);
-//             // }
-//           }
-//         }
-//         console.log("fraz should be the first name", firstName)
-//         file = await saveEmailsToExcel( excelFilePath, firstName, lastName, companyDomain, fullName);
-//         return excelFilePath;
-//       } catch (error) {
-//         console.error('An error occurred during CSV processing:', error);
-//         throw error;
-//       }
-//     }
+//     
 async function processCsvField(csvBuffer) {
   try {
     const OUTPUT_FOLDER = 'output';
@@ -263,7 +196,7 @@ async function processCsvField(csvBuffer) {
     ];
 
     for (const row of rows) {
-      console.log("single row", row)
+      // console.log("single row", row)
       const columns = row.split(',');
       
       if (columns.length >= 4) {
@@ -280,14 +213,14 @@ async function processCsvField(csvBuffer) {
         const query = `${firstName} ${lastName} ${companyName}`;
         const serpData = await fetchSerpData(query);
         
-        const verifiedEmails = await verifyEmails([fDomain]);
+        const verifiedEmails = await verifyEmails([fDomain, lDomain, flDomain]);
 
         if (serpData) {
           const extractedEmails = await extractEmailsFromLinks(serpData);
-          console.log(`Extracted emails for ${query}:`, extractedEmails);
+          // console.log(`Extracted emails for ${query}:`, extractedEmails);
 
           const filteredEmails = filterEmailsByNames(extractedEmails, firstName, lastName, companyName);
-          console.log(`Filtered emails for ${query}:`, filteredEmails);
+          // console.log(`Filtered emails for ${query}:`, filteredEmails);
 
           worksheet.addRow({
             firstName,

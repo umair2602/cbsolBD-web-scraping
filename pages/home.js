@@ -1,6 +1,7 @@
 "use client";
 import React, { useState } from "react";
 import Button from "@mui/material/Button";
+import BasicTable from "../components/BasicTable";
 
 const FileUpload = () => {
   const [selectedFile, setSelectedFile] = useState(null);
@@ -29,9 +30,7 @@ const FileUpload = () => {
         // Handle success (e.g., show a success message)
         console.log("CSV file uploaded successfully");
         const result = await response.json();
-        console.log(result, "result is here");
         setDownloadLink(result.result);
-        console.log("result.result", result.result);
       } else {
         // Handle error (e.g., show an error message)
         console.error("Failed to upload CSV file");
@@ -85,13 +84,15 @@ const FileUpload = () => {
   };
 
   return (
-    <div>
+    <div style={{display:"flex", flexDirection:"column"}}>
       <input type="file" accept=".csv" onChange={handleFileChange} />
       <Button
         type="submit"
         variant="contained"
+      
         sx={{ mt: 3, mb: 2 }}
         onClick={handleUpload}
+      
       >
         Upload
       </Button>
@@ -114,6 +115,7 @@ const FileUpload = () => {
           </a>
         </>
       )}
+      {/* <BasicTable/> */}
     </div>
   );
 };
@@ -128,6 +130,10 @@ const Home = () => {
   return (
     <>
       <h1>HomePage</h1>
+      
+      <FileUpload />
+      {/* <BasicTable/> */}
+
       <Button
         type="submit"
         variant="contained"
@@ -136,7 +142,7 @@ const Home = () => {
       >
         Log Out
       </Button>
-      <FileUpload />
+    
     </>
   );
 };

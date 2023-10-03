@@ -13,9 +13,14 @@ import LockOutlinedIcon from '@mui/icons-material/LockOutlined';
 import Typography from '@mui/material/Typography';
 import Container from '@mui/material/Container';
 import { createTheme, ThemeProvider } from '@mui/material/styles';
+import { useState } from 'react';
+
 
 
 const SignIn = () => {
+  const [error , setError] = useState("collapse");
+
+
   const handleSubmit = (event) => {
     event.preventDefault();
     const data = new FormData(event.currentTarget);
@@ -23,7 +28,13 @@ const SignIn = () => {
       email: data.get('email'),
       password: data.get('password'),
     });
-    window.location.href = '/home'; // You can use Next.js's client-side routing like this
+  {data.get('email')==="admin" && data.get('password')==="admin"? 
+
+  
+  window.location.href = '/home'
+  : 
+  setError("visible");// You can use Next.js's client-side routing like this
+}
 
   };
 
@@ -47,6 +58,7 @@ const SignIn = () => {
           <Typography component="h1" variant="h5">
             Sign in
           </Typography>
+          <div  style={{color:"red", visibility:`${error}`}}>wrong credentials</div>
           <Box component="form" onSubmit={handleSubmit} noValidate sx={{ mt: 1 }}>
             <TextField
               margin="normal"
