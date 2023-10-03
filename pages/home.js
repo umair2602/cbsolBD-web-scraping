@@ -2,10 +2,13 @@
 import React, { useState } from "react";
 import Button from "@mui/material/Button";
 import BasicTable from "../components/BasicTable";
+import Box from '@mui/material/Box';
+import LinearProgress from '@mui/material/LinearProgress';
 
 const FileUpload = () => {
   const [selectedFile, setSelectedFile] = useState(null);
   const [downloadLink, setDownloadLink] = useState(null);
+  const[loading, setLoading] = useState(false)
 
   const handleFileChange = (e) => {
     setSelectedFile(e.target.files[0]);
@@ -16,6 +19,7 @@ const FileUpload = () => {
       // Handle the case where no file is selected
       return;
     }
+    setLoading(true)
 
     const formData = new FormData();
     formData.append("csvFile", selectedFile); // Make sure to use 'csvFile' as the field name
@@ -31,6 +35,7 @@ const FileUpload = () => {
         console.log("CSV file uploaded successfully");
         const result = await response.json();
         setDownloadLink(result.result);
+        setLoading(false)
       } else {
         // Handle error (e.g., show an error message)
         console.error("Failed to upload CSV file");
@@ -85,6 +90,7 @@ const FileUpload = () => {
 
   return (
     <div style={{display:"flex", flexDirection:"column"}}>
+     
       <input type="file" accept=".csv" onChange={handleFileChange} />
       <Button
         type="submit"
@@ -96,6 +102,18 @@ const FileUpload = () => {
       >
         Upload
       </Button>
+      {/* {loading && (
+        <>
+        <Box sx={{ width: '100%' }}>
+        <div style={{display:"flex", flexDirection:"column", alignItems:"center"}}>
+        <p>Please Wait...</p>
+        <p>The process may take up to few minutes to complete</p>
+        </div>
+       
+      <LinearProgress />
+    </Box>
+        </>
+      )} */}
       {downloadLink && (
         <>
           <Button

@@ -10,6 +10,7 @@ const ExcelJS = require('exceljs'); // Import ExcelJS for creating Excel files
 const validator = require('email-validator'); // Import validator for email validation
 const cors = require('cors')
 const EmailHunter = require('hunter.io')
+require('dotenv').config();
 
 const app = express();
 app.use(cors());
@@ -24,8 +25,8 @@ const upload = multer({ storage });
 
 app.use(express.json());
 
-const API_KEY = '0938863b743881ccd61ed300e9ca3dc9d774bdeb4686aa908faf7581bb5d9050'; // Replace with your SerpApi API key
-const hunter = new EmailHunter('2af0fb12b1c817134a8660dc41821a94bf8c5db4');// Replace with your Hunter.io API key
+const API_KEY = process.env.API_KEY; // Replace with your SerpApi API key
+const hunter = new EmailHunter(process.env.Hunter_Key);// Replace with your Hunter.io API key
 // const EMAIL_VERIFIER_API_KEY ='at_Lzsg1IJZ6NBVmqT0ICBo7a2gq01vA' // Replace with your Email Verifier API key
 const OUTPUT_FOLDER = 'output'; // Folder to save the results
 
